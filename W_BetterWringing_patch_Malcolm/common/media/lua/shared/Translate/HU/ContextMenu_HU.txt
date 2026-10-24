@@ -1,0 +1,4 @@
+ContextMenu_HU = {
+ContextMenu_WringClothes = "Nedves ruhák kicsavarása",
+ContextMenu_Wring Out All Wet Clothing = "Összes nedves ruha kicsavarása"
+}

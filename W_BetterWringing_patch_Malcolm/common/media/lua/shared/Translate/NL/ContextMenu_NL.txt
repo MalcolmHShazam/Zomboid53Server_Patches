@@ -1,0 +1,4 @@
+ContextMenu_NL = {
+ContextMenu_WringClothes = "Kleding uitwringen",
+ContextMenu_Wring Out All Wet Clothing = "Alle natte kleding uitwringen"
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "updated": "2026-10-24T23:36:21Z",
+  "repo": "MalcolmHShazam/Zomboid53Server_Patches",
+  "mods": [
+    {
+      "folder": "W_BetterWringing_patch_Malcolm",
+      "id": "w_betterwringing_patch_Malcolm",
+      "hash": "90318d119f279f3df8e99f34886138808418907462194792809b8f5d58783030",
+      "version": "2026-10-24T23:36:21Z"
+    }
+  ]
+}

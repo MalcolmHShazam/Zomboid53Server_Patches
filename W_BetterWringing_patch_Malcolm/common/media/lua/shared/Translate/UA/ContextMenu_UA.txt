@@ -1,0 +1,4 @@
+ContextMenu_UA = {
+ContextMenu_WringClothes = "Віджати мокрий одяг",
+ContextMenu_Wring Out All Wet Clothing = "Віджати весь мокрий одяг"
+}

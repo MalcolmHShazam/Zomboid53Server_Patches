@@ -1,0 +1,4 @@
+ContextMenu_DA = {
+ContextMenu_WringClothes = "Vrid vådt tøj",
+ContextMenu_Wring Out All Wet Clothing = "Vrid alt vådt tøj"
+}

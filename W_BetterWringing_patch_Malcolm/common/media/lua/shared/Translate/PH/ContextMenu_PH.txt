@@ -1,0 +1,4 @@
+ContextMenu_PH = {
+ContextMenu_WringClothes = "Pigain ang basang damit",
+ContextMenu_Wring Out All Wet Clothing = "Pigain lahat ng basang damit"
+}

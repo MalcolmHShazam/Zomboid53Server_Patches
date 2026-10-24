@@ -1,0 +1,4 @@
+ContextMenu_FI = {
+ContextMenu_WringClothes = "Purista märät vaatteet",
+ContextMenu_Wring Out All Wet Clothing = "Purista kaikki märät vaatteet"
+}

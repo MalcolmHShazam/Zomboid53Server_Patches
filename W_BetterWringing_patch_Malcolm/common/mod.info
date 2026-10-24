@@ -1,0 +1,6 @@
+name=Wesch's Better Wringing (Malcolm MP patch)
+poster=poster.png
+id=w_betterwringing_patch_Malcolm
+description=Local MP-safe patch of Wesch's Better Wringing (Workshop 3408740647). Wrings wet clothing one item at a time (unequip, wring, re-wear) and works on dedicated servers. Do NOT enable together with w_betterwringing.
+incompatible=\w_betterwringing
+url=http://theindiestone.com/forums/index.php/topic/2011-how-to-use-the-upcoming-modloader/

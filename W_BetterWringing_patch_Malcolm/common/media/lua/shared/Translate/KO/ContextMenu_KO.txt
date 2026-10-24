@@ -1,0 +1,4 @@
+ContextMenu_KO = {
+ContextMenu_WringClothes = "젖은 옷 짜기",
+ContextMenu_Wring Out All Wet Clothing = "젖은 옷 모두 짜기"
+}

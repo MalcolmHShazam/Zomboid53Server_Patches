@@ -1,0 +1,4 @@
+ContextMenu_CN = {
+ContextMenu_WringClothes = "拧干湿衣服",
+ContextMenu_Wring Out All Wet Clothing = "拧干所有湿衣服"
+}

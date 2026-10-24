@@ -1,0 +1,4 @@
+ContextMenu_AR = {
+ContextMenu_WringClothes = "Escurrir ropa mojada",
+ContextMenu_Wring Out All Wet Clothing = "Escurrir toda la ropa mojada"
+}

@@ -1,0 +1,4 @@
+ContextMenu_IT = {
+ContextMenu_WringClothes = "Strizzare i vestiti bagnati",
+ContextMenu_Wring Out All Wet Clothing = "Strizzare tutti i vestiti bagnati"
+}
