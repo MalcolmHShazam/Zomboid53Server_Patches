@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "給水配管拡張",
+    "Sandbox_LGExtendedPlumbing_Enabled": "給水配管拡張を有効にする",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "建物につないだ雨水樽は建物内のすべての蛇口に給水します。真下の蛇口だけではありません。オフにすると配管は通常どおりに戻ります。",
+    "Sandbox_LGExtendedPlumbing_Reach": "建物の外での到達距離",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "本物の建物の中にない場合、たとえば自分で建てた拠点で、蛇口がどこまでドラム缶を探すかです。本物の建物の中では建物全体が使われるので、この設定は効きません。12でそれなりの広さの拠点をまかなえます。",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "給水が満たす容器",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "給水に水を送るのではなく、給水から満たされるようにつなげるものです。既定はウォーターサーバーです。それでも右クリックしてパイプレンチでつなぐ必要があります。オブジェクトのスクリプト名をセミコロンで区切って書いてください。欄を空にするとこの機能はオフになります。",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "マルチプレイの洗濯機を修正する",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "サーバーで起きる本体側の不具合を2つ修正します。配管できない洗濯機と、水が切れたあとも自分の画面では動き続ける洗濯機です。シングルプレイには不要です。",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "飲み物が出る蛇口を修正する",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "ドラム缶を空にするだけで何も入らない本体側の不具合を修正します。コーラ、ジュース、ウォッカのような飲み物だけが対象です。水、ビール、ウィスキーはもともと影響を受けません。",
+    "Sandbox_LGExtendedPlumbing_Debug": "配管の判定をログに出力する",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "配管の変化をすべてログファイルに書き出します。不具合を追うときにだけ役立ちます。"
+}

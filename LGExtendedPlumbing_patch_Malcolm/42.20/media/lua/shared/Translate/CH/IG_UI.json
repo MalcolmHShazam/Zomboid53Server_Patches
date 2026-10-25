@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "管路範圍",
+    "IGUI_LGEP_PipeWorking": "計算中...",
+    "IGUI_LGEP_PipeLegendSupplied": "管子，已接上集水桶",
+    "IGUI_LGEP_PipeLegendDry": "管子，沒有接上集水桶",
+    "IGUI_LGEP_PipeLegendBuilding": "建築自身的管路",
+    "IGUI_LGEP_PipeDownhill": "水只會往低處流，除非有發電機為集水桶供電。",
+
+    "IGUI_LGEP_AddPipe": "鋪設管子（%1 根鐵管）",
+    "IGUI_LGEP_RemovePipe": "拆除管子",
+    "IGUI_LGEP_AddWallPipe": "安裝豎管（%1 根鐵管）",
+    "IGUI_LGEP_RemoveWallPipe": "拆除豎管",
+
+    "IGUI_LGEP_PipeNeed": "你需要一根鐵管。",
+    "IGUI_LGEP_PipeNeedWrench": "你需要管鉗。",
+    "IGUI_LGEP_PipeOccupied": "那裡已經有管子了。",
+    "IGUI_LGEP_PipeNotOurs": "那裡沒有管子。",
+    "IGUI_LGEP_PipeNoWall": "豎管必須裝在牆上。",
+    "IGUI_LGEP_PipeNoSquare": "那裡沒有地板。",
+    "IGUI_LGEP_PipeNoWalk": "你到不了那個地塊。",
+    "IGUI_LGEP_PipeDisabled": "擴充水管功能已關閉。"
+}

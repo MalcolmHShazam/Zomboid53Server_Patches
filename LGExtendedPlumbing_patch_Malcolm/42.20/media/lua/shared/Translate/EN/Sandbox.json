@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Extended Plumbing",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Enable extended plumbing",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "A rain collector plumbed into a building feeds every plumbed fixture in it, not just the one right below. Turn this off for normal plumbing.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Reach outside a building",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "How far a fixture looks for barrels when it is not in a real building, like a base you built yourself. Inside a real building the whole building is used and this does nothing. 12 covers a good sized base.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Containers the supply fills",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Things that can be plumbed in to be FILLED by the supply instead of feeding it. Water dispensers by default. You still have to right-click one and plumb it with a pipe wrench. Use the object's script name, separated by semicolons. Clear the box to turn this off.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Fix washing machines in multiplayer",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Fixes two base game bugs on servers: a washing machine you cannot plumb, and one that keeps running on your screen after it runs dry. Singleplayer does not need it.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Fix taps that pour drinks",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Fixes a base game bug that empties your barrels without filling anything. It only hits drinks like cola, juice and vodka. Water, beer and whiskey were never affected.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Log plumbing decisions",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Writes every plumbing change to the log file. Only useful for tracking down a problem."
+}

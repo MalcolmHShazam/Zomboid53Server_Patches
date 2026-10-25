@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Leidingnet",
+    "IGUI_LGEP_PipeWorking": "Wordt berekend...",
+    "IGUI_LGEP_PipeLegendSupplied": "Buis, aangesloten op een regenton",
+    "IGUI_LGEP_PipeLegendDry": "Buis, geen regenton aangesloten",
+    "IGUI_LGEP_PipeLegendBuilding": "Eigen leidingen van het gebouw",
+    "IGUI_LGEP_PipeDownhill": "Water stroomt alleen naar beneden, tenzij een generator de regenton aandrijft.",
+
+    "IGUI_LGEP_AddPipe": "Buis leggen (%1 metalen buis)",
+    "IGUI_LGEP_RemovePipe": "Buis weghalen",
+    "IGUI_LGEP_AddWallPipe": "Verticale buis plaatsen (%1 metalen buis)",
+    "IGUI_LGEP_RemoveWallPipe": "Verticale buis weghalen",
+
+    "IGUI_LGEP_PipeNeed": "Je hebt een metalen buis nodig.",
+    "IGUI_LGEP_PipeNeedWrench": "Je hebt een pijpsleutel nodig.",
+    "IGUI_LGEP_PipeOccupied": "Daar ligt al een buis.",
+    "IGUI_LGEP_PipeNotOurs": "Daar ligt geen buis.",
+    "IGUI_LGEP_PipeNoWall": "Een verticale buis moet aan een muur.",
+    "IGUI_LGEP_PipeNoSquare": "Daar is geen vloer.",
+    "IGUI_LGEP_PipeNoWalk": "Je kunt niet bij die tegel komen.",
+    "IGUI_LGEP_PipeDisabled": "Uitgebreid loodgieterswerk staat uit."
+}

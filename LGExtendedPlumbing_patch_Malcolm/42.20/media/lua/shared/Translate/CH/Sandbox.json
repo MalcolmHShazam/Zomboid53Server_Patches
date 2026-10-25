@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "延伸管路",
+    "Sandbox_LGExtendedPlumbing_Enabled": "啟用延伸管路",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "接到建築上的集雨桶會供給建築內每個水龍頭，而不只是正下方的那個。關掉這項，管路就恢復原樣。",
+    "Sandbox_LGExtendedPlumbing_Reach": "建築外的作用範圍",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "當水龍頭不在真正的建築裡時，比如在你自己蓋的基地，它找油桶的範圍有多遠。在真正的建築裡會用整棟建築，這項不起作用。12 足夠覆蓋一個不小的基地。",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "由供水填滿的容器",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "可以接上去、由供水把它們填滿而不是給供水供水的東西。預設是飲水機。你仍然要按右鍵並用管鉗接好。填寫物件的腳本名稱，用分號隔開。清空輸入框即可關閉此功能。",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "修正連線中的洗衣機",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "修正原版遊戲在伺服器上的兩個問題：接不上管的洗衣機，以及水用完後在你畫面上還在轉的洗衣機。單人不需要這個。",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "修正會倒出飲料的水龍頭",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "修正原版遊戲的一個問題：油桶被抽乾卻什麼都沒裝到。只會影響可樂、果汁、伏特加這類飲料。水、啤酒和威士忌從來不受影響。",
+    "Sandbox_LGExtendedPlumbing_Debug": "記錄管路判斷",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "把每一次管路變化寫進日誌檔案。只有排查問題時才有用。"
+}

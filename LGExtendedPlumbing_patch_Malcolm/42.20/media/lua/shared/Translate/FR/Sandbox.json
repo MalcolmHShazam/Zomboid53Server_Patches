@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Plomberie étendue",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Activer la plomberie étendue",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Un collecteur d'eau de pluie raccordé à un bâtiment alimente tous les points d'eau qu'il contient, pas seulement celui juste en dessous. Désactive ceci pour une plomberie normale.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Portée hors d'un bâtiment",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Jusqu'où un point d'eau cherche des fûts quand il n'est pas dans un vrai bâtiment, comme une base que tu as construite toi-même. Dans un vrai bâtiment, c'est le bâtiment entier qui sert et ceci ne fait rien. 12 couvre une base de bonne taille.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Récipients que l'alimentation remplit",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Choses qui peuvent être raccordées pour être REMPLIES par l'alimentation au lieu de l'alimenter. Les fontaines à eau par défaut. Il faut quand même faire un clic droit et raccorder avec une clé anglaise. Utilise le nom de script de l'objet, séparé par des points-virgules. Vide le champ pour désactiver.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Corriger les lave-linge en multijoueur",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Corrige deux bogues du jeu de base sur serveur : un lave-linge que tu ne peux pas raccorder, et un autre qui continue de tourner sur ton écran après avoir manqué d'eau. Le solo n'en a pas besoin.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Corriger les robinets qui versent des boissons",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Corrige un bogue du jeu de base qui vide tes fûts sans rien remplir. Ça ne touche que les boissons comme le cola, le jus et la vodka. L'eau, la bière et le whisky n'ont jamais été touchés.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Journaliser les décisions de plomberie",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Écrit chaque changement de plomberie dans le fichier journal. Utile seulement pour retrouver un problème."
+}

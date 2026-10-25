@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Laajennettu putkitus",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Ota laajennettu putkitus käyttöön",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Rakennukseen liitetty sadevesitynnyri syöttää jokaista rakennuksen hanaa, ei vain suoraan alapuolella olevaa. Ota tämä pois päältä, niin putkisto toimii tavallisesti.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Kantama rakennuksen ulkopuolella",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Kuinka kaukaa hana etsii tynnyreitä, kun se ei ole oikeassa rakennuksessa, esimerkiksi itse rakentamassasi tukikohdassa. Oikeassa rakennuksessa käytetään koko rakennusta eikä tämä tee mitään. 12 kattaa kunnon kokoisen tukikohdan.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Astiat, jotka vesihuolto täyttää",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Asiat, jotka voidaan liittää niin että vesihuolto TÄYTTÄÄ ne sen sijaan että ne syöttäisivät sitä. Oletuksena vesiautomaatit. Sinun pitää silti napsauttaa hiiren oikealla ja liittää putkiavaimella. Käytä esineen skriptinimeä, puolipisteellä eroteltuna. Tyhjennä kenttä, niin tämä menee pois päältä.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Korjaa pesukoneet moninpelissä",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Korjaa kaksi peruspelin vikaa palvelimilla: pesukoneen jota ei saa liitettyä, ja pesukoneen joka jatkaa käyntiä sinun ruudullasi sen jälkeen kun vesi loppui. Yksinpeli ei tarvitse tätä.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Korjaa hanat jotka laskevat juomia",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Korjaa peruspelin vian, joka tyhjentää tynnyrisi täyttämättä mitään. Se osuu vain juomiin kuten cola, mehu ja vodka. Vesi, olut ja viski eivät ole koskaan olleet vaarassa.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Kirjaa putkituspäätökset lokiin",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Kirjoittaa jokaisen putkistomuutoksen lokitiedostoon. Hyödyllinen vain ongelman jäljittämiseen."
+}

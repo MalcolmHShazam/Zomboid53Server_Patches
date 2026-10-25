@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Área con cañerías",
+    "IGUI_LGEP_PipeWorking": "Calculando...",
+    "IGUI_LGEP_PipeLegendSupplied": "Caño, conectado a un recolector",
+    "IGUI_LGEP_PipeLegendDry": "Caño, sin recolector conectado",
+    "IGUI_LGEP_PipeLegendBuilding": "Plomería propia del edificio",
+    "IGUI_LGEP_PipeDownhill": "El agua solo corre cuesta abajo, salvo que un generador alimente el recolector.",
+
+    "IGUI_LGEP_AddPipe": "Agregar caño (%1 tubo metálico)",
+    "IGUI_LGEP_RemovePipe": "Sacar caño",
+    "IGUI_LGEP_AddWallPipe": "Agregar caño vertical (%1 tubo metálico)",
+    "IGUI_LGEP_RemoveWallPipe": "Sacar caño vertical",
+
+    "IGUI_LGEP_PipeNeed": "Necesitás un tubo metálico.",
+    "IGUI_LGEP_PipeNeedWrench": "Necesitás una llave para tubos.",
+    "IGUI_LGEP_PipeOccupied": "Ya hay un caño ahí.",
+    "IGUI_LGEP_PipeNotOurs": "Ahí no hay ningún caño.",
+    "IGUI_LGEP_PipeNoWall": "Un caño vertical tiene que ir en una pared.",
+    "IGUI_LGEP_PipeNoSquare": "Ahí no hay piso.",
+    "IGUI_LGEP_PipeNoWalk": "No podés llegar hasta esa casilla.",
+    "IGUI_LGEP_PipeDisabled": "La plomería extendida está desactivada."
+}

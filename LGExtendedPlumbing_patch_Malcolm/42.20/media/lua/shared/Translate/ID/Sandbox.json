@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Instalasi Air Diperluas",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Aktifkan instalasi air diperluas",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Penampung air hujan yang tersambung ke bangunan memasok setiap keran di dalamnya, bukan cuma yang tepat di bawahnya. Matikan ini supaya pipa bekerja seperti biasa.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Jangkauan di luar bangunan",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Sejauh mana keran mencari drum saat tidak berada di bangunan sungguhan, misalnya markas yang kamu bangun sendiri. Di dalam bangunan sungguhan seluruh bangunan yang dipakai dan ini tidak berpengaruh. 12 mencakup markas berukuran lumayan.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Wadah yang diisi oleh pasokan",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Benda yang bisa disambungkan supaya DIISI oleh pasokan, bukan memasoknya. Bawaannya dispenser air. Kamu tetap harus klik kanan dan menyambungkannya dengan kunci pipa. Pakai nama skrip objeknya, dipisahkan titik koma. Kosongkan kotaknya untuk mematikan ini.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Perbaiki mesin cuci di multipemain",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Memperbaiki dua bug gim dasar di server: mesin cuci yang tidak bisa kamu sambungkan, dan satu lagi yang terus jalan di layarmu setelah airnya habis. Pemain tunggal tidak membutuhkannya.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Perbaiki keran yang mengeluarkan minuman",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Memperbaiki bug gim dasar yang mengosongkan drummu tanpa mengisi apa pun. Hanya minuman seperti kola, jus dan vodka yang kena. Air, bir dan wiski tidak pernah terpengaruh.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Catat keputusan instalasi air ke log",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Menulis setiap perubahan pipa ke berkas log. Hanya berguna untuk melacak masalah."
+}

@@ -1,0 +1,7 @@
+name=LG Extended Plumbing [Malcolm Perf]
+id=LGExtendedPlumbing_patch_Malcolm
+description=LOCAL PERFORMANCE PATCH of LG Extended Plumbing v3.3.1 by LittleGroove (Workshop 3779561845). All credit for the mod is LittleGroove's; this is an unofficial local copy, not for redistribution. Use INSTEAD of LG Extended Plumbing, never together with it, and never together with LGEP_PerfFix. Changes: a per-save registry of plumbed spots lets the chunk-loading handler skip squares with no plumbing near them (with a one-time migration look for existing saves), unloading flags dirty once per relevant chunk instead of once per tile, the client's per-tile check skips ordinary objects, identical pipe re-derives no longer resend the whole pipe set, and the pipe heartbeat runs every 6 game hours instead of every 10 game minutes. Gameplay is meant to be unchanged.
+poster=poster.png
+modversion=3.3.1-malcolmperf1
+versionMin=42.20.0
+incompatible=\LGExtendedPlumbing,\LGEP_PerfFix

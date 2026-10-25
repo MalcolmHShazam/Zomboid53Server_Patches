@@ -1,0 +1,12 @@
+Intentionally empty.
+
+AdvancedAnimator.searchFolders() walks <mod>/common/media/{AnimSets,actiongroups}
+and <mod>/<version>/media/{AnimSets,actiongroups} for every enabled mod. A missing
+folder makes Files.walkFileTree fail its root and log a NoSuchFileException stack
+trace at server/client startup. The error is harmless, but it is noise, so the
+folder is shipped instead.
+
+Only *.xml is collected into the animation checksum, so this .txt is ignored by
+the engine and does not affect the client/server checksum. Do not delete this
+file - it is what keeps the empty folder alive through a copy or a Workshop
+upload.

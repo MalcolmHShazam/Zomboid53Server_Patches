@@ -1,0 +1,136 @@
+module Base
+{
+	/********* PLUSHIES *********/
+	item BorisBadger
+	{
+		DisplayCategory  = Badger,
+		ItemType         = base:normal,
+		Weight           = 0.8,
+		Icon             = Plush_Badger,
+		AttachmentType   = SpiffoPlushie,
+		StaticModel 	 = PlushieBadger_Static,	
+		WorldStaticModel = PlushieBadger_Ground,
+		Tags             = base:ignorezombiedensity;base:isfirefuel;base:isfiretinder;base:ismemento,
+		FireFuelRatio    = 0.25,
+	}
+	item EyeOfCthulhu
+    {
+        DisplayCategory = Eye,
+        ItemType = base:normal,
+        Weight = 0.8,
+        Icon = Plush_CthulhuEye,
+		AttachmentType   = SpiffoPlushie,
+		StaticModel 	 = PlushieEyeOfChulhu_Ground,	
+        WorldStaticModel = PlushieEyeOfChulhu_Ground,
+        Tags = base:ignorezombiedensity;base:isfirefuel;base:isfiretinder;base:ismemento,
+        FireFuelRatio = 0.25,
+    }
+	item FluffyfootBunny
+	{
+		DisplayCategory  = Bunny,
+		ItemType         = base:normal,
+		Weight           = 0.8,
+		Icon             = Plush_Rabbit,
+		AttachmentType   = SpiffoPlushie,
+		StaticModel 	 = PlushieRabbit_Static,	
+		WorldStaticModel = PlushieRabbit_Ground,
+		Tags             = base:ignorezombiedensity;base:isfirefuel;base:isfiretinder;base:ismemento,
+		FireFuelRatio    = 0.25,
+	}
+	item FreddyFox
+	{
+		DisplayCategory  = Fox,
+		ItemType         = base:normal,
+		Weight           = 0.8,
+		Icon             = Plush_Fox,
+		AttachmentType   = SpiffoPlushie,
+		StaticModel 	 = PlushieFox_Static,
+		WorldStaticModel = PlushieFox_Ground,
+		Tags             = base:ignorezombiedensity;base:isfirefuel;base:isfiretinder;base:ismemento,
+		FireFuelRatio    = 0.25,
+	}
+	item FurbertSquirrel
+	{
+		DisplayCategory  = Squirrel,
+		ItemType         = base:normal,
+		Weight           = 0.8,
+		Icon             = Plush_Squirrel,
+		AttachmentType   = SpiffoPlushie,
+		StaticModel 	 = PlushieSquirrel_Static,
+		WorldStaticModel = PlushieSquirrel_Ground,
+		Tags             = base:ignorezombiedensity;base:isfirefuel;base:isfiretinder;base:ismemento,
+		FireFuelRatio    = 0.25,
+	}
+	item JacquesBeaver
+	{
+		DisplayCategory  = Beaver,
+		ItemType         = base:normal,
+		Weight           = 0.8,
+		Icon             = Plush_Beaver,
+		AttachmentType   = SpiffoPlushie,
+		StaticModel 	 = PlushieBeaver_Static,	
+		WorldStaticModel = PlushieBeaver_Ground,
+		Tags             = base:ignorezombiedensity;base:isfirefuel;base:isfiretinder;base:ismemento,
+		FireFuelRatio    = 0.25,
+	}
+	item MoleyMole
+	{
+		DisplayCategory  = Mole,
+		ItemType         = base:normal,
+		Weight           = 0.8,
+		Icon             = Plush_Mole,
+		AttachmentType   = SpiffoPlushie,
+		StaticModel 	 = PlushieMole_Static,		
+		WorldStaticModel = PlushieMole_Ground,
+		Tags             = base:ignorezombiedensity;base:isfirefuel;base:isfiretinder;base:ismemento,
+		FireFuelRatio    = 0.25,
+	}
+	item PancakeHedgehog
+	{
+		DisplayCategory  = Hedgehog,
+		ItemType         = base:normal,
+		Weight           = 0.8,
+		Icon             = Plush_Hedgehog,
+		AttachmentType   = SpiffoPlushie,
+		StaticModel 	 = PlushieHedgehog_Static,	
+		WorldStaticModel = PlushieHedgehog_Ground,
+		Tags             = base:ignorezombiedensity;base:isfirefuel;base:isfiretinder;base:ismemento,
+		FireFuelRatio    = 0.25,
+	}
+	item PanchoDog
+	{
+		DisplayCategory  = Dog,
+		ItemType         = base:normal,
+		Weight           = 0.8,
+		Icon             = Plush_PanchoTaco,
+		AttachmentType   = SpiffoPlushie,
+		StaticModel 	 = Pancho,
+		WorldStaticModel = Pancho,
+		Tags             = base:ignorezombiedensity;base:isfirefuel;base:isfiretinder;base:ismemento,
+		FireFuelRatio    = 0.25,
+	}
+	item Plushabug
+	{
+		DisplayCategory  = Bug,
+		ItemType         = base:normal,
+		Weight           = 0.8,
+		Icon             = Plumpabug,
+		AttachmentType   = SpiffoPlushie,
+		StaticModel 	 = Plushabug,
+		WorldStaticModel = Plushabug,
+		Tags             = base:ignorezombiedensity;base:isfirefuel;base:isfiretinder;base:ismemento,
+		FireFuelRatio    = 0.25,
+	}
+	item Spiffo
+	{
+		DisplayCategory  = Raccoon,
+		ItemType         = base:normal,
+		Weight           = 0.8,
+		Icon             = PlushSpiffo,
+		WorldStaticModel = SpiffoPlushie,
+		AttachmentType   = SpiffoPlushie,
+		StaticModel      = SpiffoPlushie,
+		Tags             = base:ignorezombiedensity;base:isfirefuel;base:isfiretinder;base:ismemento,
+		FireFuelRatio    = 0.25,
+	}
+}

@@ -1,0 +1,5 @@
+{
+    "Sandbox_BagUpgradePlus": "Bag Upgrade Plus",
+    "Sandbox_BagUpgradePlus_UpgradedBagSpawnChance": "Upgraded Bag Spawn Chance",
+    "Sandbox_BagUpgradePlus_UpgradedBagSpawnChance_tooltip": "Controls how often zombies carry upgraded bags. 0 = Never, 100 = Always. Default: 10 (Rare)"
+}

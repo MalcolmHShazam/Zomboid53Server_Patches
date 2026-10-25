@@ -1,0 +1,4 @@
+{
+    "name": "LG Canalização Alargada",
+    "description": "Liga um coletor de chuva a um edifício com uma chave de tubos e ele alimenta todas as torneiras que lá existam, não só a que está no 3x3 mesmo por cima. Os barris ficam onde quiseres: no telhado alimentam de graça todos os pisos abaixo, e um gerador no quadrado de um barril deixa-o empurrar a água para cima. Uma torneira lê a soma de todos e esvaziam-se juntos. Clica com o botão direito numa torneira para escolher que líquido tira, e leva-lhe whisky, cerveja ou leite. Os dispensadores de água ligam-se ao contrário, para serem mantidos cheios pelo abastecimento. Pode ser adicionado ou removido a meio do jogo. Um jogador, multijogador alojado e servidor dedicado."
+}

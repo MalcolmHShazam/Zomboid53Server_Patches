@@ -1,0 +1,42 @@
+module Base 
+{
+    item SheetSlingBagPlus 
+	{
+		DisplayCategory      = Bag,
+		ItemType             = base:container,
+		Weight               = 0.4,
+		Icon                 = SheetSlingBag,
+		CanBeEquipped        = Back,
+		CanHaveHoles         = false,
+		Capacity             = 20,
+		CloseSound           = CloseSheetSlingBag,
+		ClothingItem         = Bag_SheetSlingBag,
+		EquipSound           = EquipSheetSling,
+		OpenSound            = OpenSheetSlingBag,
+		PutInSound           = StoreItemSheetSlingBag,
+		ReplaceInPrimaryHand = Bag_SheetSlingBag_RHand holdingbagright,
+		ReplaceInSecondHand  = Bag_SheetSlingBag_LHand holdingbagleft,
+		RunSpeedModifier     = 2,
+		WeightReduction      = 95,
+		WorldStaticModel     = SheetSlingBag_Ground,
+		Tags                 = base:isfirefuel;base:isfiretinder, 
+	}
+	craftRecipe MakeSheetSlingBagPlus 
+	{
+		timedAction          = MakeSheetSlingBag,
+		Time                 = 50,
+		Tags                 = InHandCraft;CanBeDoneInDark,
+        Category             = ExtraCraft,
+        NeedToBeLearn        = false,
+		xpAward              = Tailoring:15,
+		inputs
+		{
+			item 1 [Base.Sheet],
+			item 5 [Base.Money],
+		}
+		outputs
+		{
+			item 1 ExtraCraft.SheetSlingBagPlus,
+		}
+	}
+}

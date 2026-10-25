@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Csőhálózat",
+    "IGUI_LGEP_PipeWorking": "Számolás...",
+    "IGUI_LGEP_PipeLegendSupplied": "Cső, hordóra kötve",
+    "IGUI_LGEP_PipeLegendDry": "Cső, nincs hordóra kötve",
+    "IGUI_LGEP_PipeLegendBuilding": "Az épület saját vezetékei",
+    "IGUI_LGEP_PipeDownhill": "A víz csak lefelé folyik, hacsak egy generátor nem hajtja a hordót.",
+
+    "IGUI_LGEP_AddPipe": "Cső lerakása (%1 fémcső)",
+    "IGUI_LGEP_RemovePipe": "Cső felszedése",
+    "IGUI_LGEP_AddWallPipe": "Függőleges cső felszerelése (%1 fémcső)",
+    "IGUI_LGEP_RemoveWallPipe": "Függőleges cső leszerelése",
+
+    "IGUI_LGEP_PipeNeed": "Szükséged van egy fémcsőre.",
+    "IGUI_LGEP_PipeNeedWrench": "Szükséged van egy csőkulcsra.",
+    "IGUI_LGEP_PipeOccupied": "Ott már van cső.",
+    "IGUI_LGEP_PipeNotOurs": "Ott nincs cső.",
+    "IGUI_LGEP_PipeNoWall": "Függőleges cső csak falra kerülhet.",
+    "IGUI_LGEP_PipeNoSquare": "Ott nincs padló.",
+    "IGUI_LGEP_PipeNoWalk": "Arra a mezőre nem tudsz eljutni.",
+    "IGUI_LGEP_PipeDisabled": "A bővített vízvezeték ki van kapcsolva."
+}

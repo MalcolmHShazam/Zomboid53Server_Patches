@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Genişletilmiş Su Tesisatı",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Genişletilmiş su tesisatını etkinleştir",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Bir binaya bağlı yağmur varili içindeki her musluğu besler, sadece hemen altındakini değil. Bunu kapat, tesisat normal çalışsın.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Bina dışındaki erişim mesafesi",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Gerçek bir binada değilken bir musluğun varilleri ne kadar uzakta aradığı, örneğin kendi kurduğun bir üste. Gerçek bir binada bütün bina kullanılır ve bu hiçbir şey yapmaz. 12, iyi boyutta bir üssü kapsar.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Su hattının doldurduğu kaplar",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Su hattını beslemek yerine onun tarafından DOLDURULMAK üzere bağlanabilen şeyler. Varsayılan olarak su sebilleri. Yine de sağ tıklayıp boru anahtarıyla bağlaman gerekir. Nesnenin betik adını kullan, noktalı virgülle ayır. Kutuyu boşalt, bu kapansın.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Çok oyunculuda çamaşır makinelerini düzelt",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Sunucularda temel oyunun iki hatasını düzeltir: bağlayamadığın bir çamaşır makinesi ve suyu bittikten sonra senin ekranında çalışmayı sürdüren bir tanesi. Tek oyunculunun buna ihtiyacı yok.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "İçecek akıtan muslukları düzelt",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Temel oyunun, hiçbir şeyi doldurmadan varillerini boşaltan bir hatasını düzeltir. Sadece kola, meyve suyu ve votka gibi içecekleri vurur. Su, bira ve viski hiçbir zaman etkilenmedi.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Tesisat kararlarını günlüğe yaz",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Her tesisat değişikliğini günlük dosyasına yazar. Sadece bir sorunun izini sürmek için işe yarar."
+}

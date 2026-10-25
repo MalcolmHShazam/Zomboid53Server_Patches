@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "พื้นที่ที่ต่อท่อ",
+    "IGUI_LGEP_PipeWorking": "กำลังคำนวณ...",
+    "IGUI_LGEP_PipeLegendSupplied": "ท่อที่ต่อกับถังเก็บน้ำแล้ว",
+    "IGUI_LGEP_PipeLegendDry": "ท่อที่ยังไม่ได้ต่อกับถังเก็บน้ำ",
+    "IGUI_LGEP_PipeLegendBuilding": "ระบบท่อของอาคารเอง",
+    "IGUI_LGEP_PipeDownhill": "น้ำไหลลงที่ต่ำเท่านั้น เว้นแต่มีเครื่องปั่นไฟจ่ายไฟให้ถังเก็บน้ำ",
+
+    "IGUI_LGEP_AddPipe": "วางท่อ (ท่อเหล็ก %1 ท่อน)",
+    "IGUI_LGEP_RemovePipe": "ถอดท่อ",
+    "IGUI_LGEP_AddWallPipe": "ติดท่อแนวตั้ง (ท่อเหล็ก %1 ท่อน)",
+    "IGUI_LGEP_RemoveWallPipe": "ถอดท่อแนวตั้ง",
+
+    "IGUI_LGEP_PipeNeed": "คุณต้องมีท่อเหล็ก",
+    "IGUI_LGEP_PipeNeedWrench": "คุณต้องมีประแจคอม้า",
+    "IGUI_LGEP_PipeOccupied": "ตรงนั้นมีท่ออยู่แล้ว",
+    "IGUI_LGEP_PipeNotOurs": "ตรงนั้นไม่มีท่อ",
+    "IGUI_LGEP_PipeNoWall": "ท่อแนวตั้งต้องติดบนผนัง",
+    "IGUI_LGEP_PipeNoSquare": "ตรงนั้นไม่มีพื้น",
+    "IGUI_LGEP_PipeNoWalk": "คุณไปถึงช่องนั้นไม่ได้",
+    "IGUI_LGEP_PipeDisabled": "ระบบประปาแบบขยายถูกปิดใช้งาน"
+}

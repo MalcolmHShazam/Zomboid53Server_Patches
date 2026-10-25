@@ -1,8 +1,26 @@
 {
   "schema": 1,
-  "updated": "2026-10-24T23:36:21Z",
+  "updated": "2026-10-25T00:05:28Z",
   "repo": "MalcolmHShazam/Zomboid53Server_Patches",
   "mods": [
+    {
+      "folder": "B42MoodleDescriptionsExpanded_patch_Malcolm",
+      "id": "B42MoodleDescriptionsExpanded_patch_Malcolm",
+      "hash": "5cddcb560f1e3f02d2bbb1fc9b8a54c83acd0f8a4ebc25e47a2068b64a85980f",
+      "version": "2026-10-25T00:05:28Z"
+    },
+    {
+      "folder": "BagUpgradePlusRealistic_patch_Malcolm",
+      "id": "BagUpgradePlusRealistic_patch_Malcolm",
+      "hash": "7b2881cef04dea9ca4d6099abc7b453ceecc96b8dbc052c9f68ce8175720a17f",
+      "version": "2026-10-25T00:05:28Z"
+    },
+    {
+      "folder": "LGExtendedPlumbing_patch_Malcolm",
+      "id": "LGExtendedPlumbing_patch_Malcolm",
+      "hash": "d801c9f4b635b5bc93a1763b5654e56a2611a0dfdaa699a846cebdc4e4a63175",
+      "version": "2026-10-25T00:05:28Z"
+    },
     {
       "folder": "W_BetterWringing_patch_Malcolm",
       "id": "w_betterwringing_patch_Malcolm",

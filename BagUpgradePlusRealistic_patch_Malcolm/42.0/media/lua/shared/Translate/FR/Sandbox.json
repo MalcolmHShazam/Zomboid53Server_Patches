@@ -1,0 +1,5 @@
+{
+    "Sandbox_BagUpgradePlus": "Bag Upgrade Plus",
+    "Sandbox_BagUpgradePlus_UpgradedBagSpawnChance": "Chance d'apparition de Sac amélioré",
+    "Sandbox_BagUpgradePlus_UpgradedBagSpawnChance_tooltip": "Contrôle la probabilité que les zombies apparaissent avec des versions amélioré des Sacs. 0 = Jamais, 100 = Toujours. Défaut: 10 (Rare)"
+}

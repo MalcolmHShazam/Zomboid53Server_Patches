@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Canalização Alargada",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Ativar a canalização alargada",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Um coletor de chuva ligado a um edifício alimenta todas as torneiras que lá existam, não só a que está mesmo por baixo. Desliga isto para teres canalização normal.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Alcance fora de um edifício",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Até onde uma torneira procura barris quando não está num edifício a sério, como uma base construída por ti. Dentro de um edifício a sério usa-se o edifício inteiro e isto não faz nada. 12 cobre uma base de bom tamanho.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Recipientes que o abastecimento enche",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Coisas que se podem ligar para serem CHEIAS pelo abastecimento em vez de o alimentarem. Por omissão, os dispensadores de água. Mesmo assim tens de clicar com o botão direito e ligar com uma chave de tubos. Usa o nome de script do objeto, separado por ponto e vírgula. Limpa o campo para desligar isto.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Corrigir as máquinas de lavar em multijogador",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Corrige dois erros do jogo base em servidores: uma máquina de lavar que não consegues ligar à água, e outra que continua a trabalhar no teu ecrã depois de ficar sem água. Um jogador não precisa disto.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Corrigir as torneiras que deitam bebidas",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Corrige um erro do jogo base que esvazia os teus barris sem encher nada. Só afeta bebidas como a cola, o sumo e o vodka. A água, a cerveja e o whisky nunca foram afetados.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Registar as decisões de canalização",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Escreve cada alteração de canalização no ficheiro de registo. Só serve para localizar um problema."
+}

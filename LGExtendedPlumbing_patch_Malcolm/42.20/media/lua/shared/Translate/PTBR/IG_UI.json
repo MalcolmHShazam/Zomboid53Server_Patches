@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Área encanada",
+    "IGUI_LGEP_PipeWorking": "Calculando...",
+    "IGUI_LGEP_PipeLegendSupplied": "Cano, ligado a um coletor",
+    "IGUI_LGEP_PipeLegendDry": "Cano, sem coletor ligado",
+    "IGUI_LGEP_PipeLegendBuilding": "Encanamento próprio do edifício",
+    "IGUI_LGEP_PipeDownhill": "A água só corre para baixo, a menos que um gerador alimente o coletor.",
+
+    "IGUI_LGEP_AddPipe": "Colocar cano (%1 tubo de ferro)",
+    "IGUI_LGEP_RemovePipe": "Tirar cano",
+    "IGUI_LGEP_AddWallPipe": "Colocar cano vertical (%1 tubo de ferro)",
+    "IGUI_LGEP_RemoveWallPipe": "Tirar cano vertical",
+
+    "IGUI_LGEP_PipeNeed": "Você precisa de um tubo de ferro.",
+    "IGUI_LGEP_PipeNeedWrench": "Você precisa de uma chave grifo.",
+    "IGUI_LGEP_PipeOccupied": "Já tem um cano aí.",
+    "IGUI_LGEP_PipeNotOurs": "Não tem nenhum cano aí.",
+    "IGUI_LGEP_PipeNoWall": "Um cano vertical tem que ir numa parede.",
+    "IGUI_LGEP_PipeNoSquare": "Não tem chão aí.",
+    "IGUI_LGEP_PipeNoWalk": "Você não consegue chegar nesse quadrado.",
+    "IGUI_LGEP_PipeDisabled": "O encanamento estendido está desativado."
+}

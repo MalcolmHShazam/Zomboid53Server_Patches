@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Rozvod vody",
+    "IGUI_LGEP_PipeWorking": "Počítá se...",
+    "IGUI_LGEP_PipeLegendSupplied": "Trubka, napojená na nádrž",
+    "IGUI_LGEP_PipeLegendDry": "Trubka, bez napojené nádrže",
+    "IGUI_LGEP_PipeLegendBuilding": "Vlastní rozvod budovy",
+    "IGUI_LGEP_PipeDownhill": "Voda teče jen dolů, pokud nádrž nenapájí generátor.",
+
+    "IGUI_LGEP_AddPipe": "Přidat trubku (železná trubka: %1)",
+    "IGUI_LGEP_RemovePipe": "Odebrat trubku",
+    "IGUI_LGEP_AddWallPipe": "Přidat svislou trubku (železná trubka: %1)",
+    "IGUI_LGEP_RemoveWallPipe": "Odebrat svislou trubku",
+
+    "IGUI_LGEP_PipeNeed": "Potřebuješ železnou trubku.",
+    "IGUI_LGEP_PipeNeedWrench": "Potřebuješ hasák.",
+    "IGUI_LGEP_PipeOccupied": "Tam už trubka je.",
+    "IGUI_LGEP_PipeNotOurs": "Tam žádná trubka není.",
+    "IGUI_LGEP_PipeNoWall": "Svislá trubka musí být na zdi.",
+    "IGUI_LGEP_PipeNoSquare": "Tam není podlaha.",
+    "IGUI_LGEP_PipeNoWalk": "Na tu dlaždici se nedostaneš.",
+    "IGUI_LGEP_PipeDisabled": "Rozšířené instalatérství je vypnuté."
+}

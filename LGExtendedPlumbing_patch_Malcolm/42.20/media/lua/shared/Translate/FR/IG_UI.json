@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Zone de plomberie",
+    "IGUI_LGEP_PipeWorking": "Calcul en cours...",
+    "IGUI_LGEP_PipeLegendSupplied": "Tuyau, relié à un collecteur",
+    "IGUI_LGEP_PipeLegendDry": "Tuyau, aucun collecteur relié",
+    "IGUI_LGEP_PipeLegendBuilding": "Plomberie propre au bâtiment",
+    "IGUI_LGEP_PipeDownhill": "L'eau ne coule que vers le bas, sauf si un groupe électrogène alimente le collecteur.",
+
+    "IGUI_LGEP_AddPipe": "Ajouter un tuyau (%1 tuyau en métal)",
+    "IGUI_LGEP_RemovePipe": "Retirer le tuyau",
+    "IGUI_LGEP_AddWallPipe": "Ajouter un tuyau vertical (%1 tuyau en métal)",
+    "IGUI_LGEP_RemoveWallPipe": "Retirer le tuyau vertical",
+
+    "IGUI_LGEP_PipeNeed": "Il te faut un tuyau en métal.",
+    "IGUI_LGEP_PipeNeedWrench": "Il te faut une clé anglaise.",
+    "IGUI_LGEP_PipeOccupied": "Il y a déjà un tuyau là.",
+    "IGUI_LGEP_PipeNotOurs": "Il n'y a pas de tuyau là.",
+    "IGUI_LGEP_PipeNoWall": "Un tuyau vertical doit aller sur un mur.",
+    "IGUI_LGEP_PipeNoSquare": "Il n'y a pas de sol là.",
+    "IGUI_LGEP_PipeNoWalk": "Tu ne peux pas atteindre cette case.",
+    "IGUI_LGEP_PipeDisabled": "La plomberie étendue est désactivée."
+}

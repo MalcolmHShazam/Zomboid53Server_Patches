@@ -1,0 +1,11 @@
+VERSION = 1,
+
+option BagUpgradePlus.UpgradedBagSpawnChance
+{
+    type = integer,
+    min = 0,
+    max = 100,
+    default = 10,
+    page = BagUpgradePlus,
+    translation = BagUpgradePlus_UpgradedBagSpawnChance,
+}

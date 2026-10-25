@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "配管の範囲",
+    "IGUI_LGEP_PipeWorking": "計算中...",
+    "IGUI_LGEP_PipeLegendSupplied": "パイプ（雨水樽につながっている）",
+    "IGUI_LGEP_PipeLegendDry": "パイプ（雨水樽につながっていない）",
+    "IGUI_LGEP_PipeLegendBuilding": "建物自体の配管",
+    "IGUI_LGEP_PipeDownhill": "発電機で雨水樽に電力を送らない限り、水は低いほうへしか流れません。",
+
+    "IGUI_LGEP_AddPipe": "パイプを敷く（鉄パイプ %1 本）",
+    "IGUI_LGEP_RemovePipe": "パイプを外す",
+    "IGUI_LGEP_AddWallPipe": "縦パイプを付ける（鉄パイプ %1 本）",
+    "IGUI_LGEP_RemoveWallPipe": "縦パイプを外す",
+
+    "IGUI_LGEP_PipeNeed": "鉄パイプが必要です。",
+    "IGUI_LGEP_PipeNeedWrench": "パイプレンチが必要です。",
+    "IGUI_LGEP_PipeOccupied": "そこにはもうパイプがあります。",
+    "IGUI_LGEP_PipeNotOurs": "そこにパイプはありません。",
+    "IGUI_LGEP_PipeNoWall": "縦パイプは壁に付ける必要があります。",
+    "IGUI_LGEP_PipeNoSquare": "そこには床がありません。",
+    "IGUI_LGEP_PipeNoWalk": "そのタイルまで行けません。",
+    "IGUI_LGEP_PipeDisabled": "拡張配管は無効になっています。"
+}

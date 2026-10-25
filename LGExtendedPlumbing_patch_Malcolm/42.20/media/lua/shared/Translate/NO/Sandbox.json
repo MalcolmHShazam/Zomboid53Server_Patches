@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Utvidet røropplegg",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Slå på utvidet røropplegg",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "En regntønne som er koblet til en bygning forsyner hver kran der inne, ikke bare den rett under. Slå av dette for vanlige rør.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Rekkevidde utenfor en bygning",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Hvor langt en kran leter etter tønner når den ikke står i en ekte bygning, som en base du har bygd selv. Inne i en ekte bygning brukes hele bygningen, og dette gjør ingenting. 12 dekker en base av grei størrelse.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Beholdere som forsyningen fyller",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Ting som kan kobles til for å bli FYLT av forsyningen i stedet for å mate den. Vanndispensere som standard. Du må fortsatt høyreklikke og koble til med en rørnøkkel. Bruk skriptnavnet til objektet, skilt med semikolon. Tøm feltet for å slå av dette.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Fiks vaskemaskiner i flerspiller",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Fikser to feil i grunnspillet på servere: en vaskemaskin du ikke får koblet til, og en som fortsetter å gå på skjermen din etter at vannet er tomt. Enspiller trenger det ikke.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Fiks kraner som skjenker drikke",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Fikser en feil i grunnspillet som tømmer tønnene dine uten å fylle noe. Det rammer bare drikke som cola, juice og vodka. Vann, øl og whiskey har aldri vært rammet.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Logg tilkoblingsbeslutninger",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Skriver hver endring i rørene til loggfilen. Bare nyttig for å spore opp et problem."
+}

@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Udvidet vandinstallation",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Aktivér udvidet vandinstallation",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "En regntønde der er sluttet til en bygning forsyner hver hane derinde, ikke kun den lige nedenunder. Slå dette fra for normale rør.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Rækkevidde uden for en bygning",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Hvor langt en hane leder efter tønder, når den ikke står i en rigtig bygning, for eksempel en base du selv har bygget. Inde i en rigtig bygning bruges hele bygningen, og dette gør ingenting. 12 dækker en base af pæn størrelse.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Beholdere som forsyningen fylder",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Ting der kan tilsluttes for at blive FYLDT af forsyningen i stedet for at fodre den. Vandkølere som standard. Du skal stadig højreklikke og tilslutte med en rørtang. Brug objektets scriptnavn, adskilt med semikolon. Ryd feltet for at slå dette fra.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Ret vaskemaskiner i multiplayer",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Retter to fejl i grundspillet på servere: en vaskemaskine du ikke kan tilslutte, og en der bliver ved med at køre på din skærm efter at vandet er sluppet op. Enkeltspiller har ikke brug for det.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Ret haner der hælder drikkevarer op",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Retter en fejl i grundspillet, der tømmer dine tønder uden at fylde noget. Det rammer kun drikkevarer som cola, juice og vodka. Vand, øl og whiskey har aldrig været ramt.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Log tilslutningsbeslutninger",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Skriver hver ændring i rørene til logfilen. Kun nyttigt for at spore et problem."
+}

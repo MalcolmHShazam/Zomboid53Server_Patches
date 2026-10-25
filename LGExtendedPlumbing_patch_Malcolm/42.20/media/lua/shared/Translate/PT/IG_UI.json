@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Área canalizada",
+    "IGUI_LGEP_PipeWorking": "A calcular...",
+    "IGUI_LGEP_PipeLegendSupplied": "Tubo, ligado a um coletor",
+    "IGUI_LGEP_PipeLegendDry": "Tubo, sem coletor ligado",
+    "IGUI_LGEP_PipeLegendBuilding": "Canalização própria do edifício",
+    "IGUI_LGEP_PipeDownhill": "A água só corre para baixo, a não ser que um gerador alimente o coletor.",
+
+    "IGUI_LGEP_AddPipe": "Pôr tubo (%1 tubo de ferro)",
+    "IGUI_LGEP_RemovePipe": "Tirar tubo",
+    "IGUI_LGEP_AddWallPipe": "Pôr tubo vertical (%1 tubo de ferro)",
+    "IGUI_LGEP_RemoveWallPipe": "Tirar tubo vertical",
+
+    "IGUI_LGEP_PipeNeed": "Precisas de um tubo de ferro.",
+    "IGUI_LGEP_PipeNeedWrench": "Precisas de uma chave de tubos.",
+    "IGUI_LGEP_PipeOccupied": "Já há um tubo aí.",
+    "IGUI_LGEP_PipeNotOurs": "Não há nenhum tubo aí.",
+    "IGUI_LGEP_PipeNoWall": "Um tubo vertical tem de ir numa parede.",
+    "IGUI_LGEP_PipeNoSquare": "Não há chão aí.",
+    "IGUI_LGEP_PipeNoWalk": "Não consegues chegar a esse quadrado.",
+    "IGUI_LGEP_PipeDisabled": "A canalização alargada está desativada."
+}

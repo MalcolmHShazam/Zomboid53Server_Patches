@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Jaringan pipa",
+    "IGUI_LGEP_PipeWorking": "Sedang dihitung...",
+    "IGUI_LGEP_PipeLegendSupplied": "Pipa, tersambung ke penampung",
+    "IGUI_LGEP_PipeLegendDry": "Pipa, tanpa penampung tersambung",
+    "IGUI_LGEP_PipeLegendBuilding": "Instalasi air milik bangunan",
+    "IGUI_LGEP_PipeDownhill": "Air hanya mengalir ke bawah, kecuali generator mengalirkan listrik ke penampung.",
+
+    "IGUI_LGEP_AddPipe": "Pasang pipa (%1 pipa besi)",
+    "IGUI_LGEP_RemovePipe": "Lepas pipa",
+    "IGUI_LGEP_AddWallPipe": "Pasang pipa tegak (%1 pipa besi)",
+    "IGUI_LGEP_RemoveWallPipe": "Lepas pipa tegak",
+
+    "IGUI_LGEP_PipeNeed": "Kamu butuh pipa besi.",
+    "IGUI_LGEP_PipeNeedWrench": "Kamu butuh kunci pipa.",
+    "IGUI_LGEP_PipeOccupied": "Sudah ada pipa di situ.",
+    "IGUI_LGEP_PipeNotOurs": "Tidak ada pipa di situ.",
+    "IGUI_LGEP_PipeNoWall": "Pipa tegak harus dipasang di dinding.",
+    "IGUI_LGEP_PipeNoSquare": "Tidak ada lantai di situ.",
+    "IGUI_LGEP_PipeNoWalk": "Kamu tidak bisa sampai ke petak itu.",
+    "IGUI_LGEP_PipeDisabled": "Pipa ledeng yang diperluas dimatikan."
+}

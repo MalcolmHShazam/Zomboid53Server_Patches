@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Uitgebreid leidingwerk",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Uitgebreid leidingwerk inschakelen",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Een regenton die op een gebouw is aangesloten voedt elke kraan erin, niet alleen die er recht onder. Zet dit uit voor gewone leidingen.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Bereik buiten een gebouw",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Hoe ver een kraan naar vaten zoekt als hij niet in een echt gebouw staat, zoals in een basis die je zelf hebt gebouwd. In een echt gebouw wordt het hele gebouw gebruikt en doet dit niets. 12 dekt een basis van behoorlijk formaat.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Bakken die de voorziening vult",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Dingen die aangesloten kunnen worden om door de voorziening GEVULD te worden in plaats van hem te voeden. Standaard waterkoelers. Je moet nog steeds rechts klikken en met een pijpsleutel aansluiten. Gebruik de scriptnaam van het object, gescheiden door puntkomma's. Maak het veld leeg om dit uit te zetten.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Wasmachines in multiplayer repareren",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Repareert twee fouten van het basisspel op servers: een wasmachine die je niet kunt aansluiten, en een die op jouw scherm door blijft draaien nadat het water op is. Singleplayer heeft dit niet nodig.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Kranen repareren die drank tappen",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Repareert een fout van het basisspel die je vaten leegt zonder iets te vullen. Het treft alleen drank zoals cola, sap en wodka. Water, bier en whiskey waren nooit geraakt.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Leidingbeslissingen loggen",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Schrijft elke wijziging aan de leidingen naar het logbestand. Alleen handig om een probleem op te sporen."
+}

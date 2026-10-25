@@ -1,0 +1,37 @@
+VERSION = 1,
+
+option LGExtendedPlumbing.Enabled
+{
+	type = boolean, default = true,
+	page = LGExtendedPlumbing, translation = LGExtendedPlumbing_Enabled,
+}
+
+option LGExtendedPlumbing.Reach
+{
+	type = integer, min = 1, max = 64, default = 12,
+	page = LGExtendedPlumbing, translation = LGExtendedPlumbing_Reach,
+}
+
+option LGExtendedPlumbing.FedFixtures
+{
+	type = string, default = WaterDispenser,
+	page = LGExtendedPlumbing, translation = LGExtendedPlumbing_FedFixtures,
+}
+
+option LGExtendedPlumbing.WasherPatch
+{
+	type = boolean, default = true,
+	page = LGExtendedPlumbing, translation = LGExtendedPlumbing_WasherPatch,
+}
+
+option LGExtendedPlumbing.FluidPatch
+{
+	type = boolean, default = true,
+	page = LGExtendedPlumbing, translation = LGExtendedPlumbing_FluidPatch,
+}
+
+option LGExtendedPlumbing.Debug
+{
+	type = boolean, default = false,
+	page = LGExtendedPlumbing, translation = LGExtendedPlumbing_Debug,
+}

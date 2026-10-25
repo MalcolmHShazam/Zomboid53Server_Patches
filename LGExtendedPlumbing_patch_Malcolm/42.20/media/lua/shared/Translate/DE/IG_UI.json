@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Leitungsnetz",
+    "IGUI_LGEP_PipeWorking": "Wird berechnet...",
+    "IGUI_LGEP_PipeLegendSupplied": "Rohr, an einen Sammler angeschlossen",
+    "IGUI_LGEP_PipeLegendDry": "Rohr, kein Sammler angeschlossen",
+    "IGUI_LGEP_PipeLegendBuilding": "Eigene Leitungen des Gebäudes",
+    "IGUI_LGEP_PipeDownhill": "Wasser fließt nur bergab, außer ein Generator betreibt den Sammler.",
+
+    "IGUI_LGEP_AddPipe": "Rohr verlegen (%1 Metallrohr)",
+    "IGUI_LGEP_RemovePipe": "Rohr entfernen",
+    "IGUI_LGEP_AddWallPipe": "Senkrechtes Rohr anbringen (%1 Metallrohr)",
+    "IGUI_LGEP_RemoveWallPipe": "Senkrechtes Rohr entfernen",
+
+    "IGUI_LGEP_PipeNeed": "Du brauchst ein Metallrohr.",
+    "IGUI_LGEP_PipeNeedWrench": "Du brauchst eine Rohrzange.",
+    "IGUI_LGEP_PipeOccupied": "Dort liegt schon ein Rohr.",
+    "IGUI_LGEP_PipeNotOurs": "Dort ist kein Rohr.",
+    "IGUI_LGEP_PipeNoWall": "Ein senkrechtes Rohr gehört an eine Wand.",
+    "IGUI_LGEP_PipeNoSquare": "Dort ist kein Boden.",
+    "IGUI_LGEP_PipeNoWalk": "Zu dem Feld kommst du nicht hin.",
+    "IGUI_LGEP_PipeDisabled": "Erweiterte Sanitäranlagen sind abgeschaltet."
+}

@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Putkitettu alue",
+    "IGUI_LGEP_PipeWorking": "Lasketaan...",
+    "IGUI_LGEP_PipeLegendSupplied": "Putki, liitetty sadevesitynnyriin",
+    "IGUI_LGEP_PipeLegendDry": "Putki, ei liitettyä sadevesitynnyriä",
+    "IGUI_LGEP_PipeLegendBuilding": "Rakennuksen oma vesijärjestelmä",
+    "IGUI_LGEP_PipeDownhill": "Vesi virtaa vain alamäkeen, ellei generaattori syötä sähköä sadevesitynnyriin.",
+
+    "IGUI_LGEP_AddPipe": "Lisää putki (metalliputki: %1)",
+    "IGUI_LGEP_RemovePipe": "Poista putki",
+    "IGUI_LGEP_AddWallPipe": "Lisää pystyputki (metalliputki: %1)",
+    "IGUI_LGEP_RemoveWallPipe": "Poista pystyputki",
+
+    "IGUI_LGEP_PipeNeed": "Tarvitset metalliputken.",
+    "IGUI_LGEP_PipeNeedWrench": "Tarvitset putkiavaimen.",
+    "IGUI_LGEP_PipeOccupied": "Siinä on jo putki.",
+    "IGUI_LGEP_PipeNotOurs": "Siinä ei ole putkea.",
+    "IGUI_LGEP_PipeNoWall": "Pystyputken täytyy olla seinässä.",
+    "IGUI_LGEP_PipeNoSquare": "Siinä ei ole lattiaa.",
+    "IGUI_LGEP_PipeNoWalk": "Siihen ruutuun ei pääse.",
+    "IGUI_LGEP_PipeDisabled": "Laajennettu putkitus on pois käytöstä."
+}

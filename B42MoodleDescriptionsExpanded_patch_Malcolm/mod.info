@@ -1,0 +1,7 @@
+name=Moodle Descriptions Expanded [Malcolm Merged]
+id=B42MoodleDescriptionsExpanded_patch_Malcolm
+poster=poster.png
+icon=icon.png
+description=Personal merged variant of Moodle Descriptions Expanded v1.31 (base mod numbers) with the list-style line-break formatting and extra languages from Moodle Descriptions Expanded - Patch B42.15+. Use instead of the original, not with it. Credits: Moodle Descriptions Expanded by [BRE] Galand (geib), Workshop 3389003300. Patch B42.15+ formatting and DA/DE/HU/IT/JP/NL/PT/TH translations by Afyrmo, Workshop 3684807879. Local copy, not for redistribution.
+category=Translation
+versionMin=42.15.0

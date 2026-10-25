@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Borulu alan",
+    "IGUI_LGEP_PipeWorking": "Hesaplanıyor...",
+    "IGUI_LGEP_PipeLegendSupplied": "Boru, bir varile bağlı",
+    "IGUI_LGEP_PipeLegendDry": "Boru, bağlı varil yok",
+    "IGUI_LGEP_PipeLegendBuilding": "Binanın kendi tesisatı",
+    "IGUI_LGEP_PipeDownhill": "Varili bir jeneratör çalıştırmadıkça su yalnızca aşağı akar.",
+
+    "IGUI_LGEP_AddPipe": "Boru döşe (%1 metal boru)",
+    "IGUI_LGEP_RemovePipe": "Boruyu sök",
+    "IGUI_LGEP_AddWallPipe": "Dikey boru tak (%1 metal boru)",
+    "IGUI_LGEP_RemoveWallPipe": "Dikey boruyu sök",
+
+    "IGUI_LGEP_PipeNeed": "Bir metal boru gerekiyor.",
+    "IGUI_LGEP_PipeNeedWrench": "Bir boru anahtarı gerekiyor.",
+    "IGUI_LGEP_PipeOccupied": "Orada zaten bir boru var.",
+    "IGUI_LGEP_PipeNotOurs": "Orada boru yok.",
+    "IGUI_LGEP_PipeNoWall": "Dikey boru bir duvara takılmalı.",
+    "IGUI_LGEP_PipeNoSquare": "Orada zemin yok.",
+    "IGUI_LGEP_PipeNoWalk": "O kareye ulaşamıyorsun.",
+    "IGUI_LGEP_PipeDisabled": "Genişletilmiş tesisat kapalı."
+}

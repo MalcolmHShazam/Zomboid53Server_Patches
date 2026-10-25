@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "확장 배관",
+    "Sandbox_LGExtendedPlumbing_Enabled": "확장 배관 활성화",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "건물에 연결한 빗물통은 건물 안의 모든 수도꼭지에 물을 공급합니다. 바로 아래 있는 것만이 아닙니다. 이 설정을 끄면 배관이 원래대로 작동합니다.",
+    "Sandbox_LGExtendedPlumbing_Reach": "건물 밖에서의 도달 범위",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "진짜 건물 안이 아닐 때, 예를 들어 직접 지은 기지에서 수도꼭지가 드럼통을 얼마나 멀리까지 찾는지입니다. 진짜 건물 안에서는 건물 전체를 쓰므로 이 설정은 아무 영향이 없습니다. 12면 꽤 큰 기지를 덮습니다.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "급수가 채워 주는 용기",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "급수에 물을 대는 대신 급수에서 채워지도록 연결할 수 있는 것들입니다. 기본은 정수기입니다. 그래도 우클릭해서 파이프 렌치로 연결해야 합니다. 오브젝트의 스크립트 이름을 세미콜론으로 구분해 적으세요. 칸을 비우면 이 기능이 꺼집니다.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "멀티플레이 세탁기 수정",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "서버에서 나타나는 기본 게임의 오류 두 가지를 고칩니다. 배관할 수 없는 세탁기와, 물이 떨어진 뒤에도 내 화면에서는 계속 도는 세탁기입니다. 싱글플레이에는 필요 없습니다.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "음료를 따르는 수도꼭지 수정",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "드럼통만 비우고 아무것도 채우지 않는 기본 게임의 오류를 고칩니다. 콜라, 주스, 보드카 같은 음료에만 생깁니다. 물, 맥주, 위스키는 원래 영향을 받지 않았습니다.",
+    "Sandbox_LGExtendedPlumbing_Debug": "배관 판정 기록",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "배관 변화를 모두 로그 파일에 기록합니다. 문제를 추적할 때만 쓸모가 있습니다."
+}

@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Instalații Sanitare Extinse",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Activează instalațiile sanitare extinse",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Un butoi de ploaie racordat la o clădire alimentează fiecare robinet din ea, nu doar pe cel de dedesubt. Oprește asta pentru conducte normale.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Raza în afara unei clădiri",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Cât de departe caută un robinet butoaie când nu e într-o clădire adevărată, cum e o bază construită de tine. Într-o clădire adevărată se folosește toată clădirea și asta nu face nimic. 12 acoperă o bază de dimensiune bună.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Recipiente pe care alimentarea le umple",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Lucruri care pot fi racordate ca să fie UMPLUTE de alimentare în loc să o alimenteze ele. Implicit dozatoarele de apă. Tot trebuie să dai clic dreapta și să racordezi cu o cheie pentru țevi. Folosește numele de script al obiectului, separate prin punct și virgulă. Golește câmpul ca să oprești asta.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Repară mașinile de spălat în multiplayer",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Repară două erori ale jocului de bază pe servere: o mașină de spălat pe care nu o poți racorda, și una care merge mai departe pe ecranul tău după ce a rămas fără apă. Un jucător nu are nevoie de asta.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Repară robinetele care toarnă băuturi",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Repară o eroare a jocului de bază care îți golește butoaiele fără să umple nimic. Afectează doar băuturi ca cola, sucul și vodca. Apa, berea și whisky-ul nu au fost niciodată afectate.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Înregistrează deciziile de racordare",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Scrie fiecare schimbare de conducte în fișierul jurnal. Util doar ca să dai de o problemă."
+}

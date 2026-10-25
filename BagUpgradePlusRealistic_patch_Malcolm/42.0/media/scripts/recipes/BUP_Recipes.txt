@@ -1,0 +1,396 @@
+module Base
+{
+	imports 
+	{ 
+		BagUpgradePlus
+	}
+	/********* BACKPACKS *********/
+	/***** ALICE / MILITARY BACKPACKS *****/
+	craftRecipe ALICEpackUpgradePlus
+	{
+		timedAction                                                                 = SewingCloth,
+		Time                                                                        = 200,
+		Tags                                                                        = InHandCraft;CanBeDoneInDark,
+		Category                                                                    = BagUpgrades Plus,
+		SkillRequired                                                               = Tailoring:2,
+		NeedToBeLearn                                                               = false,
+		xpAward                                                                     = Tailoring:15,
+		inputs
+		{
+			item 1 [Base.Bag_SurvivorBag;Base.Bag_ALICEpack;Base.Bag_ALICEpack_Army;Base.Bag_ALICEpack_DesertCamo] mode:destroy flags[IsEmpty] mappers[aliceTypePlusUp],
+			item 1 tags[base:scissors;base:sharpknife] mode:keep flags[MayDegradeLight;IsNotDull],
+			item 1 tags[base:sewingneedle] mode:keep,
+			item 5 [Base.Thread] mode:destroy,
+			item 15 [Base.LeatherStrips] mode:destroy,
+			item 1 [Base.Buckle] mode:destroy,
+		}
+		outputs
+		{
+			item 1 mapper:aliceTypePlusUp,
+		}
+		itemMapper aliceTypePlusUp
+		{
+			BagUpgradePlus.ALICEpackPlus 			                                = Base.Bag_SurvivorBag,
+			BagUpgradePlus.ALICEpackPlus 			                                = Base.Bag_ALICEpack,
+			BagUpgradePlus.ALICEpack_CamoPlus 		                                = Base.Bag_ALICEpack_Army,
+			BagUpgradePlus.ALICEpack_DesertCamoPlus                                 = Base.Bag_ALICEpack_DesertCamo,
+		}
+	}
+	craftRecipe ALICEpackDowngradePlus
+	{
+		timedAction                                                                 = SewingCloth,
+		Time                                                                        = 200,
+		Tags                                                                        = InHandCraft;CanBeDoneInDark,
+		Category                                                                    = BagDowngrades,
+		NeedToBeLearn                                                               = false,
+		inputs
+		{
+			item 1 [BagUpgradePlus.ALICEpackPlus;BagUpgradePlus.ALICEpack_CamoPlus;BagUpgradePlus.ALICEpack_DesertCamoPlus] mode:destroy flags[IsEmpty] mappers[aliceTypePlusDown],
+			item 1 tags[base:scissors;base:sharpknife] mode:keep flags[MayDegradeLight;IsNotDull],
+		}
+		outputs
+		{
+			item 1 mapper:aliceTypePlusDown,
+		}
+		itemMapper aliceTypePlusDown
+		{
+			Base.Bag_ALICEpack 				                                        = BagUpgradePlus.ALICEpackPlus,
+			Base.Bag_ALICEpack_Army 		                                        = BagUpgradePlus.ALICEpack_CamoPlus,
+			Base.Bag_ALICEpack_DesertCamo 	                                        = BagUpgradePlus.ALICEpack_DesertCamoPlus,
+		}
+	}
+	/***** DUFFEL BAGS *****/
+	craftRecipe DuffelUpgradePlus
+	{
+		timedAction                                                                 = SewingCloth,
+		Time                                                                        = 200,
+		Tags                                                                        = InHandCraft;CanBeDoneInDark,
+		Category                                                                    = BagUpgrades Plus,
+		SkillRequired                                                               = Tailoring:1,
+		NeedToBeLearn                                                               = false,
+		xpAward                                                                     = Tailoring:15,
+		inputs
+		{
+			item 1 [Base.Bag_ToolBag;Base.Bag_FoodSnacks;Base.Bag_FoodCanned;Base.Bag_ShotgunDblSawnoffBag;Base.Bag_ShotgunDblBag;Base.Bag_ShotgunSawnoffBag;Base.Bag_ShotgunBag;Base.Bag_WorkerBag;Base.Bag_MoneyBag;Base.Bag_InmateEscapedBag;Base.Bag_WeaponBag;Base.Bag_TennisBag;Base.Bag_BaseballBag;Base.Bag_BurglarBag;Base.Bag_BreakdownBag;Base.Bag_DuffelBag;Base.Bag_MedicalBag;Base.Bag_Military;Base.Bag_Police;Base.Bag_Sheriff;Base.Bag_SWAT] mode:destroy flags[IsEmpty] mappers[duffelTypePlusUp],
+			item 1 tags[base:scissors;base:sharpknife] mode:keep flags[MayDegradeLight;IsNotDull],
+			item 1 tags[base:sewingneedle] mode:keep,
+			item 5 [Base.Thread] mode:destroy,
+			item 5 [Base.LeatherStrips] mode:destroy,
+			item 1 [Base.Buckle] mode:destroy,
+		}
+		outputs
+		{
+			item 1 mapper:duffelTypePlusUp,
+		}
+		itemMapper duffelTypePlusUp
+		{
+			BagUpgradePlus.DuffelPlus 	                                            = Base.Bag_DuffelBag,
+			BagUpgradePlus.MedicalPlus 	                                            = Base.Bag_MedicalBag,
+			BagUpgradePlus.MilitaryPlus                                             = Base.Bag_Military,
+			BagUpgradePlus.PolicePlus 	                                            = Base.Bag_Police,
+			BagUpgradePlus.SheriffPlus 	                                            = Base.Bag_Sheriff,
+			BagUpgradePlus.SWATPlus 	                                            = Base.Bag_SWAT,
+			BagUpgradePlus.BreakdownBagPlus 	                                    = Base.Bag_BreakdownBag,
+			BagUpgradePlus.BurglarBagPlus 	                                        = Base.Bag_BurglarBag,
+			BagUpgradePlus.BaseballBagPlus                                          = Base.Bag_BaseballBag,
+			BagUpgradePlus.TennisBagPlus 	                                        = Base.Bag_TennisBag,
+			BagUpgradePlus.WeaponBagPlus 	                                        = Base.Bag_WeaponBag,
+			BagUpgradePlus.InmateEscapedBagPlus 	                                = Base.Bag_InmateEscapedBag,
+			BagUpgradePlus.MoneyBagPlus 	                                        = Base.Bag_MoneyBag,
+			BagUpgradePlus.WorkerBagPlus                                            = Base.Bag_WorkerBag,
+			BagUpgradePlus.ShotgunBagPlus 	                                        = Base.Bag_ShotgunBag,
+			BagUpgradePlus.ShotgunSawnoffBagPlus 	                                = Base.Bag_ShotgunSawnoffBag,
+			BagUpgradePlus.ShotgunDblBagPlus 	                                    = Base.Bag_ShotgunDblBag,
+			BagUpgradePlus.ShotgunDblSawnoffBagPlus 	                            = Base.Bag_ShotgunDblSawnoffBag,
+			BagUpgradePlus.FoodCannedPlus 	                                        = Base.Bag_FoodCanned,
+			BagUpgradePlus.FoodSnacksPlus 	                                        = Base.Bag_FoodSnacks,
+			BagUpgradePlus.ToolBagPlus 	                                            = Base.Bag_ToolBag,
+		}
+	}
+	craftRecipe DuffelDowngradePlus
+	{
+		timedAction                                                                 = SewingCloth,
+		Time                                                                        = 200,
+		Tags                                                                        = InHandCraft;CanBeDoneInDark,
+		Category                                                                    = BagDowngrades,
+		NeedToBeLearn                                                               = false,
+		inputs
+		{
+			item 1 [BagUpgradePlus.ToolBagPlus;BagUpgradePlus.FoodSnacksPlus;BagUpgradePlus.FoodCannedPlus;BagUpgradePlus.ShotgunDblSawnoffBagPlus;BagUpgradePlus.ShotgunDblBagPlus;BagUpgradePlus.ShotgunSawnoffBagPlus;BagUpgradePlus.ShotgunBagPlus;BagUpgradePlus.WorkerBagPlus;BagUpgradePlus.MoneyBagPlus;BagUpgradePlus.InmateEscapedBagPlus;BagUpgradePlus.WeaponBagPlus;BagUpgradePlus.TennisBagPlus;BagUpgradePlus.BaseballBagPlus;BagUpgradePlus.BurglarBagPlus;BagUpgradePlus.BreakdownBagPlus;BagUpgradePlus.DuffelPlus;BagUpgradePlus.MedicalPlus;BagUpgradePlus.MilitaryPlus;BagUpgradePlus.PolicePlus;BagUpgradePlus.SheriffPlus;BagUpgradePlus.SWATPlus] mode:destroy flags[IsEmpty] mappers[duffelTypePlusDown],
+			item 1 tags[base:scissors;base:sharpknife] mode:keep flags[MayDegradeLight;IsNotDull],
+		}
+		outputs
+		{
+			item 1 mapper:duffelTypePlusDown,
+		}
+		itemMapper duffelTypePlusDown
+		{
+			Base.Bag_DuffelBag 	                                                    = BagUpgradePlus.DuffelPlus,
+			Base.Bag_MedicalBag                                                     = BagUpgradePlus.MedicalPlus,
+			Base.Bag_Military 	                                                    = BagUpgradePlus.MilitaryPlus,
+			Base.Bag_Police 	                                                    = BagUpgradePlus.PolicePlus,
+			Base.Bag_Sheriff 	                                                    = BagUpgradePlus.SheriffPlus,
+			Base.Bag_SWAT 		                                                    = BagUpgradePlus.SWATPlus,
+			Base.Bag_BreakdownBag	                                                = BagUpgradePlus.BreakdownBagPlus,
+			Base.Bag_BurglarBag 	                                                = BagUpgradePlus.BurglarBagPlus,
+			Base.Bag_BaseballBag                                                    = BagUpgradePlus.BaseballBagPlus,
+			Base.Bag_TennisBag 	                                                    = BagUpgradePlus.TennisBagPlus,
+			Base.Bag_WeaponBag 	                                                    = BagUpgradePlus.WeaponBagPlus,
+			Base.Bag_InmateEscapedBag 	                                            = BagUpgradePlus.InmateEscapedBagPlus,
+			Base.Bag_MoneyBag 	                                                    = BagUpgradePlus.MoneyBagPlus,		
+			Base.Bag_WorkerBag 	                                                    = BagUpgradePlus.WorkerBagPlus,
+			Base.Bag_ShotgunBag 	                                                = BagUpgradePlus.ShotgunBagPlus,
+			Base.Bag_ShotgunSawnoffBag 	                                            = BagUpgradePlus.ShotgunSawnoffBagPlus,
+			Base.Bag_ShotgunDblBag 	                                                = BagUpgradePlus.ShotgunDblBagPlus,
+			Base.Bag_ShotgunDblSawnoffBag 	                                        = BagUpgradePlus.ShotgunDblSawnoffBagPlus,
+			Base.Bag_FoodCanned 	                                                = BagUpgradePlus.FoodCannedPlus,
+			Base.Bag_FoodSnacks 	                                                = BagUpgradePlus.FoodSnacksPlus,
+			Base.Bag_ToolBag 	                                                    = BagUpgradePlus.ToolBagPlus,
+		}
+	}
+	/***** FANNY PACKS *****/
+	craftRecipe FannyPackUpgradePlus
+	{
+		timedAction                                                                 = SewingCloth,
+		Time                                                                        = 200,
+		Tags                                                                        = InHandCraft;CanBeDoneInDark,
+		Category                                                                    = BagUpgrades Plus,
+		NeedToBeLearn                                                               = false,
+		xpAward                                                                     = Tailoring:15,
+		inputs
+		{
+			item 1 [Base.Bag_FannyPackFront;Base.Bag_FannyPackBack] mode:destroy flags[IsEmpty] mappers[fannyTypePlusUp],
+			item 1 tags[base:scissors;base:sharpknife] mode:keep flags[MayDegradeLight;IsNotDull],
+			item 1 tags[base:sewingneedle] mode:keep,
+			item 2 [Base.Thread] mode:destroy,
+			item 2 [Base.LeatherStrips] mode:destroy,
+		}
+		outputs
+		{
+			item 1 mapper:fannyTypePlusUp,
+		}
+		itemMapper fannyTypePlusUp
+		{
+			BagUpgradePlus.FannyPackBackPlus 	                                    = Base.Bag_FannyPackBack,
+			BagUpgradePlus.FannyPackFrontPlus 	                                    = Base.Bag_FannyPackFront,
+		}
+	}
+	craftRecipe FannyPackDowngradePlus
+	{
+		timedAction                                                                 = SewingCloth,
+		Time                                                                        = 200,
+		Tags                                                                        = InHandCraft;CanBeDoneInDark,
+		Category                                                                    = BagDowngrades,
+		NeedToBeLearn                                                               = false,
+		inputs
+		{
+			item 1 [BagUpgradePlus.FannyPackFrontPlus;BagUpgradePlus.FannyPackBackPlus] mode:destroy flags[IsEmpty] mappers[fannyTypePlusDown],
+			item 1 tags[base:scissors;base:sharpknife] mode:keep flags[MayDegradeLight;IsNotDull],
+		}
+		outputs
+		{
+			item 1 mapper:fannyTypePlusDown,
+		}
+		itemMapper fannyTypePlusDown
+		{
+			Base.Bag_FannyPackBack 	                                                = BagUpgradePlus.FannyPackBackPlus,
+			Base.Bag_FannyPackFront                                                 = BagUpgradePlus.FannyPackFrontPlus,
+		}
+	}
+	/***** FLUID CONTAINERS *****/
+	craftRecipe HydrationBackpackUpgradePlus
+	{
+		timedAction                                                                 = SewingCloth,
+		Time                                                                        = 200,
+		Tags                                                                        = InHandCraft;CanBeDoneInDark,
+		Category                                                                    = BagUpgrades Plus,
+		NeedToBeLearn                                                               = false,
+		xpAward                                                                     = Tailoring:15,
+		inputs
+		{
+			item 1 [Base.Bag_HydrationBackpack;Base.Bag_HydrationBackpack_Camo] mode:destroy flags[IsEmpty] mappers[hydroTypePlusUp],
+			item 1 tags[base:scissors;base:sharpknife] mode:keep flags[MayDegradeLight;IsNotDull],
+			item 1 tags[base:sewingneedle] mode:keep,
+			item 5 [Base.Thread] mode:destroy,
+			item 5 [Base.LeatherStrips] mode:destroy,
+			item 1 [Base.Buckle] mode:destroy,
+		}
+		outputs
+		{
+			item 1 mapper:hydroTypePlusUp,
+		}
+		itemMapper hydroTypePlusUp
+		{
+			BagUpgradePlus.HydrationBackpackPlus 		                            = Base.Bag_HydrationBackpack,
+			BagUpgradePlus.HydrationBackpackPlus_Camo 	                            = Base.Bag_HydrationBackpack_Camo,
+		}
+	}
+	craftRecipe HydrationBackpackDowngradePlus
+	{
+		timedAction                                                                 = SewingCloth,
+		Time                                                                        = 200,
+		Tags                                                                        = InHandCraft;CanBeDoneInDark,
+		Category                                                                    = BagDowngrades,
+		NeedToBeLearn                                                               = false,
+		inputs
+		{
+			item 1 [BagUpgradePlus.HydrationBackpackPlus;BagUpgradePlus.HydrationBackpackPlus_Camo] mode:destroy flags[IsEmpty] mappers[hydroTypePlusDown],
+			item 1 tags[base:scissors;base:sharpknife] mode:keep flags[MayDegradeLight;IsNotDull],
+		}
+		outputs
+		{
+			item 1 mapper:hydroTypePlusDown,
+		}
+		itemMapper hydroTypePlusDown
+		{
+			Base.Bag_HydrationBackpack 		                                        = BagUpgradePlus.HydrationBackpackPlus,
+			Base.Bag_HydrationBackpack_Camo                                         = BagUpgradePlus.HydrationBackpackPlus_Camo,
+		}
+	}
+	/***** HIKING BACKPACKS *****/
+	craftRecipe HikingBagUpgradePlus
+	{
+		timedAction                                                                 = SewingCloth,
+		Time                                                                        = 200,
+		Tags                                                                        = InHandCraft;CanBeDoneInDark,
+		Category                                                                    = BagUpgrades Plus,
+		SkillRequired                                                               = Tailoring:1,
+		NeedToBeLearn                                                               = false,
+		xpAward                                                                     = Tailoring:15,
+		inputs
+		{
+			item 1 [Base.Bag_NormalHikingBag;Base.Bag_BigHikingBag;Base.Bag_HikingBag_Travel] mode:destroy flags[IsEmpty] mappers[hikingTypePlusUp],
+			item 1 tags[base:scissors;base:sharpknife] mode:keep flags[MayDegradeLight;IsNotDull],
+			item 1 tags[base:sewingneedle] mode:keep,
+			item 5 [Base.Thread] mode:destroy,
+			item 10 [Base.LeatherStrips] mode:destroy,
+			item 1 [Base.Buckle] mode:destroy,
+		}
+		outputs
+		{
+			item 1 mapper:hikingTypePlusUp,
+		}
+		itemMapper hikingTypePlusUp
+		{
+			BagUpgradePlus.HikingBagPlus 			                                = Base.Bag_NormalHikingBag,
+			BagUpgradePlus.BigHikingBagplus 		                                = Base.Bag_BigHikingBag,
+			BagUpgradePlus.BigHikingBagPlus_Travel 	                                = Base.Bag_HikingBag_Travel,
+		}
+	}
+	craftRecipe HikingBagDowngradePlus
+	{
+		timedAction                                                                 = SewingCloth,
+		Time                                                                        = 200,
+		Tags                                                                        = InHandCraft;CanBeDoneInDark,
+		Category                                                                    = BagDowngrades,
+		NeedToBeLearn                                                               = false,
+		inputs
+		{
+			item 1 [BagUpgradePlus.HikingBagPlus;BagUpgradePlus.BigHikingBagplus;BagUpgradePlus.BigHikingBagPlus_Travel] mode:destroy flags[IsEmpty] mappers[hikingTypePlusDown],
+			item 1 tags[base:scissors;base:sharpknife] mode:keep flags[MayDegradeLight;IsNotDull],
+		}
+		outputs
+		{
+			item 1 mapper:hikingTypePlusDown,
+		}
+		itemMapper hikingTypePlusDown
+		{
+			Base.Bag_NormalHikingBag 	                                            = BagUpgradePlus.HikingBagPlus,
+			Base.Bag_BigHikingBag 		                                            = BagUpgradePlus.BigHikingBagplus,
+			Base.Bag_HikingBag_Travel 	                                            = BagUpgradePlus.BigHikingBagPlus_Travel,
+		}
+	}
+	/***** MISC BAGS *****/
+	craftRecipe SchoolbagUpgradePlus
+	{
+		timedAction                                                                 = SewingCloth,
+		Time                                                                        = 200,
+		Tags                                                                        = InHandCraft;CanBeDoneInDark,
+		Category                                                                    = BagUpgrades Plus,
+		NeedToBeLearn                                                               = false,
+		xpAward                                                                     = Tailoring:15,
+		inputs
+		{
+			item 1 [Base.Bag_Schoolbag] mode:destroy flags[IsEmpty],
+			item 1 tags[base:scissors;base:sharpknife] mode:keep flags[MayDegradeLight;IsNotDull],
+			item 1 tags[base:sewingneedle] mode:keep,
+			item 5 [Base.Thread] mode:destroy,
+			item 5 [Base.LeatherStrips] mode:destroy,
+			item 1 [Base.Buckle] mode:destroy,
+		}
+		outputs
+		{
+			item 1 BagUpgradePlus.SchoolbagPlus,
+		}
+	}
+	craftRecipe SchoolbagDowngradePlus
+	{
+		timedAction                                                                 = SewingCloth,
+		Time                                                                        = 200,
+		Tags                                                                        = InHandCraft;CanBeDoneInDark,
+		Category                                                                    = BagDowngrades,
+		NeedToBeLearn                                                               = false,
+		inputs
+		{
+			item 1 [BagUpgradePlus.SchoolbagPlus] mode:destroy flags[IsEmpty],
+			item 1 tags[base:scissors;base:sharpknife] mode:keep flags[MayDegradeLight;IsNotDull],
+		}
+		outputs
+		{
+			item 1 Base.Bag_Schoolbag,
+		}
+	}
+	/***** SATCHELS *****/
+	craftRecipe SatchelUpgradePlus
+	{
+		timedAction                                                                 = SewingCloth,
+		Time                                                                        = 200,
+		Tags                                                                        = InHandCraft;CanBeDoneInDark,
+		Category                                                                    = BagUpgrades Plus,
+		NeedToBeLearn                                                               = false,
+		xpAward                                                                     = Tailoring:15,
+		inputs
+		{
+			item 1 [Base.Bag_Satchel;Base.Bag_Satchel_Fishing;Base.Bag_Satchel_Medical;Base.Bag_Satchel_Military] mode:destroy flags[IsEmpty] mappers[satchelTypePlusUp],
+			item 1 tags[base:scissors;base:sharpknife] mode:keep flags[MayDegradeLight;IsNotDull],
+			item 1 tags[base:sewingneedle] mode:keep,
+			item 5 [Base.Thread] mode:destroy,
+			item 5 [Base.LeatherStrips] mode:destroy,
+		}
+		outputs
+		{
+			item 1 mapper:satchelTypePlusUp,
+		}
+		itemMapper satchelTypePlusUp
+		{
+			BagUpgradePlus.SatchelPlus 			                                    = Base.Bag_Satchel,
+			BagUpgradePlus.Satchel_FishingPlus 	                                    = Base.Bag_Satchel_Fishing,
+			BagUpgradePlus.Satchel_MedicalPlus 	                                    = Base.Bag_Satchel_Medical,
+			BagUpgradePlus.Satchel_MilitaryPlus                                     = Base.Bag_Satchel_Military,
+		}
+	}
+	craftRecipe SatchelDowngradePlus
+	{
+		timedAction                                                                 = SewingCloth,
+		Time                                                                        = 200,
+		Tags                                                                        = InHandCraft;CanBeDoneInDark,
+		Category                                                                    = BagDowngrades,
+		NeedToBeLearn                                                               = false,
+		inputs
+		{
+			item 1 [BagUpgradePlus.SatchelPlus;BagUpgradePlus.Satchel_FishingPlus;BagUpgradePlus.Satchel_MedicalPlus;BagUpgradePlus.Satchel_MilitaryPlus] mode:destroy flags[IsEmpty] mappers[satchelTypePlusDown],
+			item 1 tags[base:scissors;base:sharpknife] mode:keep flags[MayDegradeLight;IsNotDull],
+		}
+		outputs
+		{
+			item 1 mapper:satchelTypePlusDown,
+		}
+		itemMapper satchelTypePlusDown
+		{
+			Base.Bag_Satchel 			                                            = BagUpgradePlus.SatchelPlus,
+			Base.Bag_Satchel_Fishing 	                                            = BagUpgradePlus.Satchel_FishingPlus,
+			Base.Bag_Satchel_Medical 	                                            = BagUpgradePlus.Satchel_MedicalPlus,
+			Base.Bag_Satchel_Military 	                                            = BagUpgradePlus.Satchel_MilitaryPlus,
+		}
+	}
+}

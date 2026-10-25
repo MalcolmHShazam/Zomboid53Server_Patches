@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Idraulica estesa",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Attiva l'idraulica estesa",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Un raccoglitore di pioggia allacciato a un edificio alimenta tutti i rubinetti che ci sono, non solo quello subito sotto. Disattiva per avere un impianto idraulico normale.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Portata fuori da un edificio",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Fin dove un rubinetto cerca fusti quando non è in un edificio vero, come una base che ti sei costruito. Dentro un edificio vero si usa tutto l'edificio e questo non fa niente. 12 copre una base di buone dimensioni.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Contenitori che l'impianto riempie",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Cose che si possono allacciare per essere RIEMPITE dall'impianto invece di alimentarlo. Di base i distributori d'acqua. Devi comunque fare clic destro e allacciare con una chiave giratubi. Usa il nome di script dell'oggetto, separato da punto e virgola. Svuota il campo per disattivare.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Sistema le lavatrici in multigiocatore",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Sistema due bug del gioco base sui server: una lavatrice che non riesci ad allacciare, e una che continua a girare sul tuo schermo dopo aver finito l'acqua. Il giocatore singolo non ne ha bisogno.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Sistema i rubinetti che versano bevande",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Sistema un bug del gioco base che svuota i tuoi fusti senza riempire niente. Colpisce solo bevande come cola, succo e vodka. Acqua, birra e whiskey non sono mai stati toccati.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Registra le decisioni idrauliche",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Scrive ogni cambio dell'impianto idraulico nel file di log. Serve solo per rintracciare un problema."
+}

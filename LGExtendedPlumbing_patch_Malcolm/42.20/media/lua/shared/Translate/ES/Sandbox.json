@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Fontanería ampliada",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Activar la fontanería ampliada",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Un recolector de lluvia instalado en un edificio alimenta todos los grifos que tenga, no solo el que está justo debajo. Desactívalo para tener fontanería normal.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Alcance fuera de un edificio",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Hasta dónde busca barriles un grifo cuando no está en un edificio de verdad, como una base construida por ti. Dentro de un edificio de verdad se usa el edificio entero y esto no hace nada. 12 cubre una base de buen tamaño.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Recipientes que llena el suministro",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Cosas que se pueden conectar para que el suministro las LLENE en vez de alimentarlo. Por defecto, los dispensadores de agua. Aun así tienes que hacer clic derecho e instalarlo con una llave para tubos. Usa el nombre de script del objeto, separado por puntos y coma. Vacía la casilla para desactivarlo.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Arreglar las lavadoras en multijugador",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Arregla dos fallos del juego base en servidores: una lavadora que no puedes instalar, y otra que sigue funcionando en tu pantalla después de quedarse sin agua. Un jugador no lo necesita.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Arreglar los grifos que sirven bebidas",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Arregla un fallo del juego base que vacía tus barriles sin llenar nada. Solo afecta a bebidas como la cola, el zumo y el vodka. El agua, la cerveza y el whisky nunca estuvieron afectados.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Registrar las decisiones de fontanería",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Escribe cada cambio de fontanería en el archivo de registro. Solo sirve para localizar un problema."
+}

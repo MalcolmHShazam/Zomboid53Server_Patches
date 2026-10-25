@@ -1,0 +1,55 @@
+[EN] Moodles_Stress_desc_lvl1
+  base : -10%% Melee & Ranged damage.
+  patch: On edge.<br>Grab a smoke, read a book, watch TV.<br>Relieve some Stress.
+  used : -10%% Melee & Ranged damage.
+
+[EN] Moodles_Stress_desc_lvl2
+  base : -20%% Melee & Ranged damage. Unhappiness slowly rising. Reduced Foraging.
+  patch: -10⁒ Melee & Ranged damage.<br>Unhappiness slowly rising.<br>Reduced Foraging.
+  used : -20%% Melee & Ranged damage.<br>Unhappiness slowly rising.<br>Reduced Foraging.
+
+[EN] Moodles_Stress_desc_lvl3
+  base : -30%% Melee & Ranged damage. Unhappiness rising fast. Moderately reduced Foraging.
+  patch: -20⁒ Melee & Ranged damage.<br>Unhappiness rising fast.<br>Moderately reduced Foraging.
+  used : -30%% Melee & Ranged damage.<br>Unhappiness rising fast.<br>Moderately reduced Foraging.
+
+[EN] Moodles_Stress_desc_lvl4
+  base : -40%% Melee & Ranged damage. Unhappiness rising faster. -95%% Foraging.
+  patch: -30⁒ Melee & Ranged damage.<br>Unhappiness rising faster.<br>-95⁒ Foraging.
+  used : -40%% Melee & Ranged damage.<br>Unhappiness rising faster.<br>-95%% Foraging.
+
+[EN] Moodles_Panic_desc_lvl2
+  base : -2.6%% Crit. -0.2x Melee Damage. Standing up is faster.
+  patch: -2.6⁒ Crit Chance.<br>-0.1x Melee Damage.<br>Standing up is faster.
+  used : -2.6%% Crit Chance.<br>-0.2x Melee Damage.<br>Standing up is faster.
+
+[EN] Moodles_Panic_desc_lvl3
+  base : -3.9%% Crit. -0.3x Melee Damage. Standing up is faster.
+  patch: -3.9⁒ Crit Chance.<br>-0.2x Melee Damage.<br>-0.19x Gun Damage.<br>Standing up is faster.
+  used : -3.9%% Crit Chance.<br>-0.3x Melee Damage.<br>Standing up is faster.
+
+[EN] Moodles_Panic_desc_lvl4
+  base : -5.2%% Crit. -0.4x Melee Damage. Standing up is faster.
+  patch: -5.2⁒ Crit Chance.<br>-0.3x Melee Damage.<br>-0.25x Gun Damage.<br>Standing up is faster.
+  used : -5.2%% Crit Chance.<br>-0.4x Melee Damage.<br>Standing up is faster.
+
+[RU] Moodles_Bleeding_desc_lvl3
+  base : Серьёзная потеря здоровья. -2 очко грузоподъёмности.
+  patch: Серьёзная потеря здоровья.<br>-1 очко грузоподъёмности.
+  used : Серьёзная потеря здоровья.<br>-2 очко грузоподъёмности.
+
+[RU] Moodles_Bleeding_desc_lvl4
+  base : Критическая потеря здоровья. -3 очко грузоподъёмности.
+  patch: Критическая потеря здоровья.<br>-1 очко грузоподъёмности.
+  used : Критическая потеря здоровья.<br>-3 очко грузоподъёмности.
+
+[TR] Moodles_Bleeding_desc_lvl3
+  base : Ciddi Sağlık kaybı. -2 Taşıma Kapasitesi.
+  patch: Ciddi Sağlık kaybı.<br>Taşıma Kapasitesi -1 birim.
+  used : Ciddi Sağlık kaybı.<br>-2 Taşıma Kapasitesi.
+
+[TR] Moodles_Bleeding_desc_lvl4
+  base : Aşırı Sağlık kaybı. -3 Taşıma Kapasitesi.
+  patch: Aşırı Sağlık kaybı.<br>Taşıma Kapasitesi -1 birim.
+  used : Aşırı Sağlık kaybı.<br>-3 Taşıma Kapasitesi.
+

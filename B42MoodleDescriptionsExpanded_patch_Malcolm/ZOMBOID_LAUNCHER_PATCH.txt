@@ -1,0 +1,2 @@
+Patch copy of B42MoodleDescriptionsExpanded (Moodle Descriptions Expanded) from Workshop 3389003300 v1.31 merged with 3684807879 (MDE_B42_15_Patch 1.1.4)
+Created 2026-10-21 23:58:49

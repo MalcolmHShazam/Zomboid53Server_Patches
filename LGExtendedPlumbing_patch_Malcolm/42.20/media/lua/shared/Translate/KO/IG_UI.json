@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "배관 범위",
+    "IGUI_LGEP_PipeWorking": "계산 중...",
+    "IGUI_LGEP_PipeLegendSupplied": "파이프, 빗물통에 연결됨",
+    "IGUI_LGEP_PipeLegendDry": "파이프, 연결된 빗물통 없음",
+    "IGUI_LGEP_PipeLegendBuilding": "건물 자체 배관",
+    "IGUI_LGEP_PipeDownhill": "발전기가 빗물통에 전기를 공급하지 않으면 물은 아래로만 흐릅니다.",
+
+    "IGUI_LGEP_AddPipe": "파이프 깔기 (철 파이프 %1개)",
+    "IGUI_LGEP_RemovePipe": "파이프 걷기",
+    "IGUI_LGEP_AddWallPipe": "세로 파이프 달기 (철 파이프 %1개)",
+    "IGUI_LGEP_RemoveWallPipe": "세로 파이프 떼기",
+
+    "IGUI_LGEP_PipeNeed": "철 파이프가 필요합니다.",
+    "IGUI_LGEP_PipeNeedWrench": "파이프 렌치가 필요합니다.",
+    "IGUI_LGEP_PipeOccupied": "그곳에는 이미 파이프가 있습니다.",
+    "IGUI_LGEP_PipeNotOurs": "그곳에는 파이프가 없습니다.",
+    "IGUI_LGEP_PipeNoWall": "세로 파이프는 벽에 달아야 합니다.",
+    "IGUI_LGEP_PipeNoSquare": "그곳에는 바닥이 없습니다.",
+    "IGUI_LGEP_PipeNoWalk": "그 타일까지 갈 수 없습니다.",
+    "IGUI_LGEP_PipeDisabled": "확장 배관이 꺼져 있습니다."
+}

@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Rozszerzona hydraulika",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Włącz rozszerzoną hydraulikę",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Beczka na deszczówkę podłączona do budynku zasila każdy kran w środku, nie tylko ten bezpośrednio pod nią. Wyłącz to, żeby instalacja działała normalnie.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Zasięg poza budynkiem",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Jak daleko kran szuka beczek, kiedy nie stoi w prawdziwym budynku, na przykład w bazie zbudowanej przez ciebie. W prawdziwym budynku bierze się cały budynek i to nic nie robi. 12 obejmuje bazę przyzwoitej wielkości.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Pojemniki, które instalacja napełnia",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Rzeczy, które można podłączyć tak, by instalacja je NAPEŁNIAŁA, zamiast żeby ją zasilały. Domyślnie dystrybutory wody. Nadal trzeba kliknąć prawym i podłączyć kluczem do rur. Użyj nazwy skryptowej obiektu, oddzielonej średnikami. Wyczyść pole, żeby to wyłączyć.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Napraw pralki w trybie wieloosobowym",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Naprawia dwa błędy podstawowej gry na serwerach: pralkę, której nie da się podłączyć, i pralkę, która chodzi dalej na twoim ekranie po tym, jak skończyła jej się woda. Gra jednoosobowa tego nie potrzebuje.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Napraw krany, które leją napoje",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Naprawia błąd podstawowej gry, który opróżnia twoje beczki, nic nie napełniając. Dotyczy tylko napojów takich jak cola, sok i wódka. Woda, piwo i whiskey nigdy nie były tym dotknięte.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Zapisuj decyzje o podłączeniach",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Zapisuje każdą zmianę instalacji do pliku dziennika. Przydatne tylko przy szukaniu problemu."
+}

@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Zona cu țevi",
+    "IGUI_LGEP_PipeWorking": "Se calculează...",
+    "IGUI_LGEP_PipeLegendSupplied": "Țeavă, legată la un butoi",
+    "IGUI_LGEP_PipeLegendDry": "Țeavă, fără butoi legat",
+    "IGUI_LGEP_PipeLegendBuilding": "Instalația proprie a clădirii",
+    "IGUI_LGEP_PipeDownhill": "Apa curge doar în jos, dacă butoiul nu e alimentat de un generator.",
+
+    "IGUI_LGEP_AddPipe": "Pune țeavă (țeavă din fier: %1)",
+    "IGUI_LGEP_RemovePipe": "Scoate țeava",
+    "IGUI_LGEP_AddWallPipe": "Pune țeavă verticală (țeavă din fier: %1)",
+    "IGUI_LGEP_RemoveWallPipe": "Scoate țeava verticală",
+
+    "IGUI_LGEP_PipeNeed": "Îți trebuie o țeavă din fier.",
+    "IGUI_LGEP_PipeNeedWrench": "Îți trebuie o cheie pentru țevi.",
+    "IGUI_LGEP_PipeOccupied": "Acolo e deja o țeavă.",
+    "IGUI_LGEP_PipeNotOurs": "Acolo nu e nicio țeavă.",
+    "IGUI_LGEP_PipeNoWall": "O țeavă verticală trebuie pusă pe un perete.",
+    "IGUI_LGEP_PipeNoSquare": "Acolo nu e podea.",
+    "IGUI_LGEP_PipeNoWalk": "Nu poți ajunge la pătratul ăla.",
+    "IGUI_LGEP_PipeDisabled": "Instalația sanitară extinsă este dezactivată."
+}

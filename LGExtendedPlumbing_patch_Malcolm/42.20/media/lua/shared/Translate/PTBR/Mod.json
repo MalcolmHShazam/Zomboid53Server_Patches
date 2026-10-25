@@ -1,0 +1,4 @@
+{
+    "name": "LG Encanamento Estendido",
+    "description": "Encane um coletor de chuva num edifício com uma chave grifo e ele alimenta todas as torneiras que tiver, não só a que fica no 3x3 logo acima. Os barris vão onde você quiser: no telhado alimentam de graça todos os andares abaixo, e um gerador no quadrado de um barril deixa ele empurrar a água para cima. Uma torneira lê a soma de todos e eles esvaziam juntos. Clique com o botão direito numa torneira para escolher qual líquido ela puxa, e leve uísque, cerveja ou leite. Bebedouros encanam ao contrário, para serem mantidos cheios pelo abastecimento. Pode ser adicionado ou removido no meio do jogo. Um jogador, multijogador hospedado e servidor dedicado."
+}

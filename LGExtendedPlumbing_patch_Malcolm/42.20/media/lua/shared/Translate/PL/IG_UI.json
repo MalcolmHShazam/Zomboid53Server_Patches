@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Sieć rur",
+    "IGUI_LGEP_PipeWorking": "Obliczanie...",
+    "IGUI_LGEP_PipeLegendSupplied": "Rura, podłączona do beczki",
+    "IGUI_LGEP_PipeLegendDry": "Rura, bez podłączonej beczki",
+    "IGUI_LGEP_PipeLegendBuilding": "Własna instalacja budynku",
+    "IGUI_LGEP_PipeDownhill": "Woda płynie tylko w dół, chyba że agregat zasila beczkę.",
+
+    "IGUI_LGEP_AddPipe": "Dodaj rurę (rura z żelaza: %1)",
+    "IGUI_LGEP_RemovePipe": "Zabierz rurę",
+    "IGUI_LGEP_AddWallPipe": "Dodaj pionową rurę (rura z żelaza: %1)",
+    "IGUI_LGEP_RemoveWallPipe": "Zabierz pionową rurę",
+
+    "IGUI_LGEP_PipeNeed": "Potrzebujesz rury z żelaza.",
+    "IGUI_LGEP_PipeNeedWrench": "Potrzebujesz klucza do rur.",
+    "IGUI_LGEP_PipeOccupied": "Tam już jest rura.",
+    "IGUI_LGEP_PipeNotOurs": "Tam nie ma rury.",
+    "IGUI_LGEP_PipeNoWall": "Pionowa rura musi być na ścianie.",
+    "IGUI_LGEP_PipeNoSquare": "Tam nie ma podłogi.",
+    "IGUI_LGEP_PipeNoWalk": "Nie dojdziesz do tego pola.",
+    "IGUI_LGEP_PipeDisabled": "Rozszerzona hydraulika jest wyłączona."
+}

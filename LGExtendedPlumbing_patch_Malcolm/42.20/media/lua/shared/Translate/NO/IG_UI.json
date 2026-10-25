@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Område med rør",
+    "IGUI_LGEP_PipeWorking": "Regner ut...",
+    "IGUI_LGEP_PipeLegendSupplied": "Rør, koblet til en regntønne",
+    "IGUI_LGEP_PipeLegendDry": "Rør, ingen regntønne koblet til",
+    "IGUI_LGEP_PipeLegendBuilding": "Bygningens eget røropplegg",
+    "IGUI_LGEP_PipeDownhill": "Vann renner bare nedover, med mindre en generator driver regntønnen.",
+
+    "IGUI_LGEP_AddPipe": "Legg rør (%1 Metalpipe)",
+    "IGUI_LGEP_RemovePipe": "Fjern rør",
+    "IGUI_LGEP_AddWallPipe": "Sett opp loddrett rør (%1 Metalpipe)",
+    "IGUI_LGEP_RemoveWallPipe": "Ta ned loddrett rør",
+
+    "IGUI_LGEP_PipeNeed": "Du trenger en Metalpipe.",
+    "IGUI_LGEP_PipeNeedWrench": "Du trenger en rørnøkkel.",
+    "IGUI_LGEP_PipeOccupied": "Det ligger allerede et rør der.",
+    "IGUI_LGEP_PipeNotOurs": "Det er ikke noe rør der.",
+    "IGUI_LGEP_PipeNoWall": "Et loddrett rør må sitte på en vegg.",
+    "IGUI_LGEP_PipeNoSquare": "Det er ikke noe gulv der.",
+    "IGUI_LGEP_PipeNoWalk": "Du kommer deg ikke til den ruta.",
+    "IGUI_LGEP_PipeDisabled": "Utvidet rørlegging er slått av."
+}

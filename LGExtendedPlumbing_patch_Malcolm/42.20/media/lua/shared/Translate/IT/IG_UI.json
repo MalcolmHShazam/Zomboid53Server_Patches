@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Area delle tubature",
+    "IGUI_LGEP_PipeWorking": "Sto calcolando...",
+    "IGUI_LGEP_PipeLegendSupplied": "Tubo, collegato a un raccoglitore",
+    "IGUI_LGEP_PipeLegendDry": "Tubo, nessun raccoglitore collegato",
+    "IGUI_LGEP_PipeLegendBuilding": "Impianto proprio dell'edificio",
+    "IGUI_LGEP_PipeDownhill": "L'acqua scorre solo in discesa, a meno che un generatore non alimenti il raccoglitore.",
+
+    "IGUI_LGEP_AddPipe": "Aggiungi tubo (%1 tubo di metallo)",
+    "IGUI_LGEP_RemovePipe": "Rimuovi tubo",
+    "IGUI_LGEP_AddWallPipe": "Aggiungi tubo verticale (%1 tubo di metallo)",
+    "IGUI_LGEP_RemoveWallPipe": "Rimuovi tubo verticale",
+
+    "IGUI_LGEP_PipeNeed": "Ti serve un tubo di metallo.",
+    "IGUI_LGEP_PipeNeedWrench": "Ti serve una chiave giratubi.",
+    "IGUI_LGEP_PipeOccupied": "Lì c'è già un tubo.",
+    "IGUI_LGEP_PipeNotOurs": "Lì non c'è nessun tubo.",
+    "IGUI_LGEP_PipeNoWall": "Un tubo verticale va messo su un muro.",
+    "IGUI_LGEP_PipeNoSquare": "Lì non c'è pavimento.",
+    "IGUI_LGEP_PipeNoWalk": "Non riesci a raggiungere quella casella.",
+    "IGUI_LGEP_PipeDisabled": "L'impianto idraulico esteso è disattivato."
+}

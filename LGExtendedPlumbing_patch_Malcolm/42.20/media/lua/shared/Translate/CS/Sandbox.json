@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Rozšířená vodoinstalace",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Zapnout rozšířenou vodoinstalaci",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Sběrná nádrž napojená na budovu zásobuje každý kohoutek v ní, ne jen ten přímo pod ní. Vypni to a rozvody budou fungovat normálně.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Dosah mimo budovu",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Jak daleko kohoutek hledá sudy, když nestojí ve skutečné budově, třeba na základně, kterou sis postavil sám. Ve skutečné budově se použije celá budova a tohle nedělá nic. 12 pokryje slušně velkou základnu.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Nádoby, které rozvod plní",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Věci, které jde napojit tak, aby je rozvod PLNIL, místo aby ho zásobovaly. Ve výchozím stavu zásobníky vody. Pořád musíš kliknout pravým a napojit to hasákem. Použij skriptový název objektu, oddělený středníkem. Vyprázdni pole a tohle se vypne.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Opravit pračky v multiplayeru",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Opraví dvě chyby základní hry na serverech: pračku, kterou nejde napojit, a pračku, která ti na obrazovce běží dál poté, co jí došla voda. Hra pro jednoho to nepotřebuje.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Opravit kohoutky, které točí nápoje",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Opraví chybu základní hry, která ti vyprázdní sudy, aniž by cokoli naplnila. Týká se to jen nápojů jako cola, džus a vodka. Voda, pivo a whiskey nikdy zasažené nebyly.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Zapisovat rozhodnutí o rozvodu vody do logu",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Zapisuje každou změnu rozvodů do logu. Užitečné jen při hledání problému."
+}

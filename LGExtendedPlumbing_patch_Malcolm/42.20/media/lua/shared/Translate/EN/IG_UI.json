@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Piped area",
+    "IGUI_LGEP_PipeWorking": "Working it out...",
+    "IGUI_LGEP_PipeLegendSupplied": "Pipe, connected to a barrel",
+    "IGUI_LGEP_PipeLegendDry": "Pipe, no barrel connected",
+    "IGUI_LGEP_PipeLegendBuilding": "Building's own plumbing",
+    "IGUI_LGEP_PipeDownhill": "Water only runs downhill unless a generator powers the barrel.",
+
+    "IGUI_LGEP_AddPipe": "Add pipe (%1 iron pipe)",
+    "IGUI_LGEP_RemovePipe": "Remove pipe",
+    "IGUI_LGEP_AddWallPipe": "Add vertical pipe (%1 iron pipe)",
+    "IGUI_LGEP_RemoveWallPipe": "Remove vertical pipe",
+
+    "IGUI_LGEP_PipeNeed": "You need an iron pipe.",
+    "IGUI_LGEP_PipeNeedWrench": "You need a pipe wrench.",
+    "IGUI_LGEP_PipeOccupied": "There is already a pipe there.",
+    "IGUI_LGEP_PipeNotOurs": "There is no pipe there.",
+    "IGUI_LGEP_PipeNoWall": "A vertical pipe has to go on a wall.",
+    "IGUI_LGEP_PipeNoSquare": "There is no floor there.",
+    "IGUI_LGEP_PipeNoWalk": "You cannot get to that tile.",
+    "IGUI_LGEP_PipeDisabled": "Extended plumbing is switched off."
+}

@@ -1,0 +1,4 @@
+{
+    "name": "LG Laajennettu putkitus",
+    "description": "Liitä sadevesitynnyri rakennukseen putkiavaimella, niin se syöttää jokaista rakennuksen hanaa, ei vain sitä joka on 3x3-alueella suoraan yläpuolella. Tynnyrit saavat olla missä vain: katolla ne syöttävät ilmaiseksi jokaista alempaa kerrosta, ja generaattori tynnyrin ruudulla antaa sen työntää vettä myös ylöspäin. Hana lukee kaikkien summan, ja ne tyhjenevät yhdessä. Napsauta hanaa hiiren oikealla valitaksesi nesteen, ja vie sille viskiä, olutta tai maitoa. Vesiautomaatit liitetään toisin päin, jotta vesihuolto pitää ne täynnä. Voi lisätä tai poistaa kesken tallennuksen. Yksinpeli, isännöity moninpeli ja oma palvelin."
+}

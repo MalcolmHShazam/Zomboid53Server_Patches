@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Área con tuberías",
+    "IGUI_LGEP_PipeWorking": "Calculando...",
+    "IGUI_LGEP_PipeLegendSupplied": "Tubo, conectado a un recolector",
+    "IGUI_LGEP_PipeLegendDry": "Tubo, sin recolector conectado",
+    "IGUI_LGEP_PipeLegendBuilding": "Plomería propia del edificio",
+    "IGUI_LGEP_PipeDownhill": "El agua solo corre cuesta abajo, a menos que un generador alimente el recolector.",
+
+    "IGUI_LGEP_AddPipe": "Poner tubo (%1 tubo de hierro)",
+    "IGUI_LGEP_RemovePipe": "Quitar tubo",
+    "IGUI_LGEP_AddWallPipe": "Poner tubo vertical (%1 tubo de hierro)",
+    "IGUI_LGEP_RemoveWallPipe": "Quitar tubo vertical",
+
+    "IGUI_LGEP_PipeNeed": "Necesitas un tubo de hierro.",
+    "IGUI_LGEP_PipeNeedWrench": "Necesitas una llave para tuberías.",
+    "IGUI_LGEP_PipeOccupied": "Ya hay un tubo ahí.",
+    "IGUI_LGEP_PipeNotOurs": "Ahí no hay ningún tubo.",
+    "IGUI_LGEP_PipeNoWall": "Un tubo vertical tiene que ir en una pared.",
+    "IGUI_LGEP_PipeNoSquare": "Ahí no hay piso.",
+    "IGUI_LGEP_PipeNoWalk": "No puedes llegar a esa casilla.",
+    "IGUI_LGEP_PipeDisabled": "La plomería extendida está desactivada."
+}

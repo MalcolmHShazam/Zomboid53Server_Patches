@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Kiterjesztett vízhálózat",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Kiterjesztett vízhálózat bekapcsolása",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Egy épületre rákötött esővízgyűjtő hordó minden benne lévő csapot ellát, nem csak a közvetlenül alatta lévőt. Kapcsold ki, és a vezetékek a szokásos módon működnek.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Hatótáv épületen kívül",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Meddig keres hordókat egy csap, ha nem valódi épületben áll, például egy általad épített bázison. Valódi épületben az egész épületet használja, és ez nem csinál semmit. A 12 lefed egy jó méretű bázist.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Tartályok, amelyeket a vezeték feltölt",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Dolgok, amelyeket úgy lehet rákötni, hogy a vezeték TÖLTSE FEL őket, ahelyett hogy ők táplálnák. Alapból a vízadagolók. Így is jobb gombbal kell kattintanod, és csőkulccsal rákötni. Használd a tárgy szkriptnevét, pontosvesszővel elválasztva. Ürítsd ki a mezőt, és ez kikapcsol.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Mosógépek javítása többjátékos módban",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Két alapjátékbeli hibát javít szervereken: egy mosógépet, amelyet nem lehet rákötni, és egyet, amely a te képernyődön tovább jár, miután kifogyott belőle a víz. Egyjátékos módban nincs rá szükség.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Italt csapoló csapok javítása",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Kijavít egy alapjátékbeli hibát, amely kiüríti a hordóidat anélkül, hogy bármit megtöltene. Csak olyan italokat érint, mint a kóla, a gyümölcslé és a vodka. A vizet, a sört és a whiskey-t soha nem érintette.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Vízhálózati döntések naplózása",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "A vezetékek minden változását a naplófájlba írja. Csak hibakereséshez hasznos."
+}

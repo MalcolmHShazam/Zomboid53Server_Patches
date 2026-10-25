@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Lampisteria ampliada",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Activar la lampisteria ampliada",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Un recol·lector de pluja connectat a un edifici alimenta totes les aixetes que hi hagi, no només la de just a sota. Desactiva-ho per tenir lampisteria normal.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Abast fora d'un edifici",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Fins on busca bidons una aixeta quan no és en un edifici de debò, com una base que t'has construït. Dins d'un edifici de debò es fa servir tot l'edifici i això no fa res. 12 cobreix una base de bona mida.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Recipients que omple el subministrament",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Coses que es poden connectar perquè el subministrament les OMPLI en comptes d'alimentar-lo. Per defecte, els dispensadors d'aigua. Igualment has de fer clic dret i connectar-ho amb una clau Stillson. Fes servir el nom d'script de l'objecte, separat per punt i coma. Buida el camp per desactivar-ho.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Arreglar les rentadores en multijugador",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Arregla dos errors del joc base als servidors: una rentadora que no pots connectar, i una altra que continua funcionant a la teva pantalla després de quedar-se sense aigua. Un jugador no ho necessita.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Arreglar les aixetes que serveixen begudes",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Arregla un error del joc base que buida els teus bidons sense omplir res. Només afecta begudes com la cola, el suc i el vodka. L'aigua, la cervesa i el whisky no s'han vist mai afectats.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Registrar les decisions de lampisteria",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Escriu cada canvi de lampisteria al fitxer de registre. Només serveix per localitzar un problema."
+}

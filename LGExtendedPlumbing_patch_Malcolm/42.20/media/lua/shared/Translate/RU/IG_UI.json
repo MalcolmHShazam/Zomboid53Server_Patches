@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Зона водопровода",
+    "IGUI_LGEP_PipeWorking": "Считаем...",
+    "IGUI_LGEP_PipeLegendSupplied": "Труба, подключённая к бочке",
+    "IGUI_LGEP_PipeLegendDry": "Труба без подключённой бочки",
+    "IGUI_LGEP_PipeLegendBuilding": "Собственный водопровод здания",
+    "IGUI_LGEP_PipeDownhill": "Вода течёт только вниз, если бочку не питает генератор.",
+
+    "IGUI_LGEP_AddPipe": "Проложить трубу (металлическая труба: %1)",
+    "IGUI_LGEP_RemovePipe": "Снять трубу",
+    "IGUI_LGEP_AddWallPipe": "Поставить вертикальную трубу (металлическая труба: %1)",
+    "IGUI_LGEP_RemoveWallPipe": "Снять вертикальную трубу",
+
+    "IGUI_LGEP_PipeNeed": "Нужна металлическая труба.",
+    "IGUI_LGEP_PipeNeedWrench": "Нужен трубный ключ.",
+    "IGUI_LGEP_PipeOccupied": "Там уже есть труба.",
+    "IGUI_LGEP_PipeNotOurs": "Там нет трубы.",
+    "IGUI_LGEP_PipeNoWall": "Вертикальная труба ставится только на стену.",
+    "IGUI_LGEP_PipeNoSquare": "Там нет пола.",
+    "IGUI_LGEP_PipeNoWalk": "До этой клетки не добраться.",
+    "IGUI_LGEP_PipeDisabled": "Расширенная сантехника отключена."
+}

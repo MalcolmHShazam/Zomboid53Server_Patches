@@ -1,0 +1,22 @@
+{
+    "IGUI_LGEP_PipeTitle": "Område med rør",
+    "IGUI_LGEP_PipeWorking": "Regner det ud...",
+    "IGUI_LGEP_PipeLegendSupplied": "Rør, koblet til en regntønde",
+    "IGUI_LGEP_PipeLegendDry": "Rør, ingen regntønde koblet til",
+    "IGUI_LGEP_PipeLegendBuilding": "Bygningens egne rør",
+    "IGUI_LGEP_PipeDownhill": "Vand løber kun nedad, medmindre en generator driver regntønden.",
+
+    "IGUI_LGEP_AddPipe": "Læg rør (%1 jernrør)",
+    "IGUI_LGEP_RemovePipe": "Fjern rør",
+    "IGUI_LGEP_AddWallPipe": "Sæt lodret rør op (%1 jernrør)",
+    "IGUI_LGEP_RemoveWallPipe": "Tag lodret rør ned",
+
+    "IGUI_LGEP_PipeNeed": "Du skal bruge et jernrør.",
+    "IGUI_LGEP_PipeNeedWrench": "Du skal bruge en rørtang.",
+    "IGUI_LGEP_PipeOccupied": "Der er allerede et rør dér.",
+    "IGUI_LGEP_PipeNotOurs": "Der er intet rør dér.",
+    "IGUI_LGEP_PipeNoWall": "Et lodret rør skal sidde på en væg.",
+    "IGUI_LGEP_PipeNoSquare": "Der er intet gulv dér.",
+    "IGUI_LGEP_PipeNoWalk": "Du kan ikke komme hen til det felt.",
+    "IGUI_LGEP_PipeDisabled": "Udvidet VVS er slået fra."
+}

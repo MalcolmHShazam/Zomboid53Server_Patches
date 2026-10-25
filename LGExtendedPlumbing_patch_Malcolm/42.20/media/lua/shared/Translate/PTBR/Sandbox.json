@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Encanamento Estendido",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Ativar o encanamento estendido",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Um coletor de chuva encanado num edifício alimenta todas as torneiras que ele tiver, não só a que fica logo abaixo. Desligue isto para ter encanamento normal.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Alcance fora de um edifício",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Até onde uma torneira procura barris quando não está num edifício de verdade, como uma base que você mesmo construiu. Dentro de um edifício de verdade usa-se o edifício inteiro e isto não faz nada. 12 cobre uma base de bom tamanho.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Recipientes que o abastecimento enche",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Coisas que podem ser encanadas para serem CHEIAS pelo abastecimento em vez de alimentá-lo. Bebedouros por padrão. Mesmo assim você tem de clicar com o botão direito e encanar com uma chave grifo. Use o nome de script do objeto, separado por ponto e vírgula. Limpe o campo para desligar isto.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Corrigir as máquinas de lavar no multijogador",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Corrige dois bugs do jogo base em servidores: uma máquina de lavar que você não consegue encanar, e outra que continua rodando na sua tela depois de ficar sem água. Um jogador não precisa disto.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Corrigir as torneiras que servem bebidas",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Corrige um bug do jogo base que esvazia os seus barris sem encher nada. Só afeta bebidas como refrigerante de cola, suco e vodka. Água, cerveja e uísque nunca foram afetados.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Registrar as decisões de encanamento",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Escreve toda mudança de encanamento no arquivo de log. Só serve para achar um problema."
+}

@@ -1,0 +1,4 @@
+{
+    "name": "LG Genişletilmiş Su Tesisatı",
+    "description": "Bir yağmur varilini boru anahtarıyla bir binaya bağla, içindeki her musluğu beslesin, sadece hemen üstündeki 3x3'tekini değil. Variller nereye istersen: çatıda altlarındaki her katı bedava besler ve varilin karesindeki bir jeneratör suyu yukarı da itmesini sağlar. Bir musluk hepsinin toplamını okur ve birlikte boşalırlar. Bir musluğa sağ tıklayıp hangi sıvıyı çekeceğini seç ve ona viski, bira ya da süt götür. Su sebilleri ters yönde bağlanır, su hattı onları dolu tutsun diye. Oyunun ortasında eklenip çıkarılabilir. Tek oyunculu, barındırılan çok oyunculu ve adanmış sunucu."
+}

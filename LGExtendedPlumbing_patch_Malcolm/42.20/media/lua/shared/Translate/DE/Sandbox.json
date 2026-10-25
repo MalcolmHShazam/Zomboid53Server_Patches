@@ -1,0 +1,15 @@
+{
+    "Sandbox_LGExtendedPlumbing": "Erweiterte Wasserinstallation",
+    "Sandbox_LGExtendedPlumbing_Enabled": "Erweiterte Wasserinstallation aktivieren",
+    "Sandbox_LGExtendedPlumbing_Enabled_tooltip": "Ein an ein Gebäude angeschlossener Regensammler versorgt jede Zapfstelle darin, nicht nur die direkt darunter. Schalte das aus für normale Leitungen.",
+    "Sandbox_LGExtendedPlumbing_Reach": "Reichweite außerhalb eines Gebäudes",
+    "Sandbox_LGExtendedPlumbing_Reach_tooltip": "Wie weit eine Zapfstelle nach Fässern sucht, wenn sie nicht in einem echten Gebäude steht, etwa in einer selbst gebauten Basis. In einem echten Gebäude wird das ganze Gebäude genommen und das hier tut nichts. 12 deckt eine gut geschnittene Basis ab.",
+    "Sandbox_LGExtendedPlumbing_FedFixtures": "Behälter, die die Versorgung füllt",
+    "Sandbox_LGExtendedPlumbing_FedFixtures_tooltip": "Dinge, die angeschlossen werden können, um von der Versorgung GEFÜLLT zu werden, statt sie zu speisen. Standardmäßig Wasserspender. Du musst trotzdem einen Rechtsklick machen und mit einer Rohrzange anschließen. Nimm den Skriptnamen des Objekts, mit Semikolon getrennt. Feld leeren, um das abzuschalten.",
+    "Sandbox_LGExtendedPlumbing_WasherPatch": "Waschmaschinen im Mehrspieler reparieren",
+    "Sandbox_LGExtendedPlumbing_WasherPatch_tooltip": "Behebt zwei Fehler des Grundspiels auf Servern: eine Waschmaschine, die sich nicht anschließen lässt, und eine, die auf deinem Bildschirm weiterläuft, nachdem ihr das Wasser ausgegangen ist. Im Einzelspieler nicht nötig.",
+    "Sandbox_LGExtendedPlumbing_FluidPatch": "Zapfstellen reparieren, die Getränke ausschenken",
+    "Sandbox_LGExtendedPlumbing_FluidPatch_tooltip": "Behebt einen Fehler des Grundspiels, der deine Fässer leert, ohne etwas zu füllen. Betroffen sind nur Getränke wie Cola, Saft und Vodka. Wasser, Bier und Whiskey waren nie betroffen.",
+    "Sandbox_LGExtendedPlumbing_Debug": "Anschlussentscheidungen protokollieren",
+    "Sandbox_LGExtendedPlumbing_Debug_tooltip": "Schreibt jede Änderung an den Leitungen in die Logdatei. Nur nützlich, um einem Problem nachzugehen."
+}

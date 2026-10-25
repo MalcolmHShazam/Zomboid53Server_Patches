@@ -1,0 +1,5 @@
+{
+    "Sandbox_BagUpgradePlus": "背包升级+",
+    "Sandbox_BagUpgradePlus_UpgradedBagSpawnChance": "升级版背包生成概率",
+    "Sandbox_BagUpgradePlus_UpgradedBagSpawnChance_tooltip": "控制僵尸携带升级版背包的频率。0 = 从不，100 = 总是。默认值：10（稀有）"
+}
