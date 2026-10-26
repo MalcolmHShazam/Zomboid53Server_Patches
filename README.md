@@ -16,6 +16,14 @@ Collection: https://steamcommunity.com/sharedfiles/filedetails/?id=3827405167
 |---|---|
 | ['67 Chevrolet Impala](https://steamcommunity.com/sharedfiles/filedetails/?id=3820938264) | 3820938264 |
 | ['78 AM General M35 Series Trucks](https://steamcommunity.com/sharedfiles/filedetails/?id=2799152995) | 2799152995 |
+| [[B41,B42] Show VHS skills in tooltip](https://steamcommunity.com/sharedfiles/filedetails/?id=3716522633) | 3716522633 |
+| [[B42.19] Filibuster Rhymes' Certified Used Cars](https://steamcommunity.com/sharedfiles/filedetails/?id=3683878228) | 3683878228 |
+| [[B42.20+] Barbed Wire Bat](https://steamcommunity.com/sharedfiles/filedetails/?id=3683880951) | 3683880951 |
+| [[B42.20] Detailed Descriptions for Occupations and Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=3387957272) | 3387957272 |
+| [[B42.20] True RVs Only](https://steamcommunity.com/sharedfiles/filedetails/?id=3664207077) | 3664207077 |
+| [[B42] Buildable Garage Doors](https://steamcommunity.com/sharedfiles/filedetails/?id=3727753275) | 3727753275 |
+| [[B42] Vanilla Firearms Rework](https://steamcommunity.com/sharedfiles/filedetails/?id=3720484992) | 3720484992 |
+| [[B42]Project RV Interior](https://steamcommunity.com/sharedfiles/filedetails/?id=3543229299) | 3543229299 |
 | [6244 3D models for Viewpoint [sour_kisel]](https://steamcommunity.com/sharedfiles/filedetails/?id=3810302175) | 3810302175 |
 | [Apocalyptic Bus](https://steamcommunity.com/sharedfiles/filedetails/?id=3543222473) | 3543222473 |
 | [Autotsar Bus B42](https://steamcommunity.com/sharedfiles/filedetails/?id=3402812859) | 3402812859 |
@@ -33,8 +41,8 @@ Collection: https://steamcommunity.com/sharedfiles/filedetails/?id=3827405167
 | [PZ Map](https://steamcommunity.com/sharedfiles/filedetails/?id=3770149036) | 3770149036 |
 | [PZ Pulse](https://steamcommunity.com/sharedfiles/filedetails/?id=3753700423) | 3753700423 |
 | [Quartermaster - Auto-Sort & Store Loot](https://steamcommunity.com/sharedfiles/filedetails/?id=3761216758) | 3761216758 |
-| [RV Interior Expansion Part 2 [B42]](https://steamcommunity.com/sharedfiles/filedetails/?id=3622163276) | 3622163276 |
 | [RV Interior Expansion [B42]](https://steamcommunity.com/sharedfiles/filedetails/?id=3618427553) | 3618427553 |
+| [RV Interior Expansion Part 2 [B42]](https://steamcommunity.com/sharedfiles/filedetails/?id=3622163276) | 3622163276 |
 | [RV Military Addon [B42]](https://steamcommunity.com/sharedfiles/filedetails/?id=3614959302) | 3614959302 |
 | [SMB steps](https://steamcommunity.com/sharedfiles/filedetails/?id=3813489363) | 3813489363 |
 | [Spongie's Character Customisation](https://steamcommunity.com/sharedfiles/filedetails/?id=3414634809) | 3414634809 |
@@ -57,22 +65,14 @@ Collection: https://steamcommunity.com/sharedfiles/filedetails/?id=3827405167
 | [Weapon Condition Indicator](https://steamcommunity.com/sharedfiles/filedetails/?id=3412262177) | 3412262177 |
 | [Where Am I?](https://steamcommunity.com/sharedfiles/filedetails/?id=3097650043) | 3097650043 |
 | [ZombieBuddy](https://steamcommunity.com/sharedfiles/filedetails/?id=3619862853) | 3619862853 |
-| [[B41,B42] Show VHS skills in tooltip](https://steamcommunity.com/sharedfiles/filedetails/?id=3716522633) | 3716522633 |
-| [[B42.19] Filibuster Rhymes' Certified Used Cars](https://steamcommunity.com/sharedfiles/filedetails/?id=3683878228) | 3683878228 |
-| [[B42.20+] Barbed Wire Bat](https://steamcommunity.com/sharedfiles/filedetails/?id=3683880951) | 3683880951 |
-| [[B42.20] Detailed Descriptions for Occupations and Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=3387957272) | 3387957272 |
-| [[B42.20] True RVs Only](https://steamcommunity.com/sharedfiles/filedetails/?id=3664207077) | 3664207077 |
-| [[B42] Buildable Garage Doors](https://steamcommunity.com/sharedfiles/filedetails/?id=3727753275) | 3727753275 |
-| [[B42] Vanilla Firearms Rework](https://steamcommunity.com/sharedfiles/filedetails/?id=3720484992) | 3720484992 |
-| [[B42]Project RV Interior](https://steamcommunity.com/sharedfiles/filedetails/?id=3543229299) | 3543229299 |
 
 ## Patched mods (4)
 
 Local edits of Workshop mods made for this server. They are not on the Workshop; ZomboidPatches.bat installs them, and the server loads them instead of the originals.
 
-- **Moodle Descriptions Expanded** (`B42MoodleDescriptionsExpanded_patch_Malcolm`)
 - **[B42.20] Bag Upgrade Plus *Realistic*** (`BagUpgradePlusRealistic_patch_Malcolm`)
 - **LG Extended Plumbing** (`LGExtendedPlumbing_patch_Malcolm`)
+- **Moodle Descriptions Expanded** (`B42MoodleDescriptionsExpanded_patch_Malcolm`)
 - **Wesch's Better Wringing** (`w_betterwringing_patch_Malcolm`)
 
 _Last updated: 2026-10-25_
