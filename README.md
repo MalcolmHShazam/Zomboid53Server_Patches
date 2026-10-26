@@ -10,7 +10,7 @@ Custom patches for mods for multiplayer server.
 
 Collection: https://steamcommunity.com/sharedfiles/filedetails/?id=3827405167
 
-## Workshop mods on the server (53)
+## Workshop mods on the server (51)
 
 | Mod | Workshop ID |
 |---|---|
@@ -55,7 +55,6 @@ Collection: https://steamcommunity.com/sharedfiles/filedetails/?id=3827405167
 | [Viewpoint 3D Fences and Gates (Beta)](https://steamcommunity.com/sharedfiles/filedetails/?id=3813723091) | 3813723091 |
 | [Visible Generator Range](https://steamcommunity.com/sharedfiles/filedetails/?id=2972289937) | 2972289937 |
 | [Weapon Condition Indicator](https://steamcommunity.com/sharedfiles/filedetails/?id=3412262177) | 3412262177 |
-| [Wesch's Better Wringing 42.20](https://steamcommunity.com/sharedfiles/filedetails/?id=3408740647) | 3408740647 |
 | [Where Am I?](https://steamcommunity.com/sharedfiles/filedetails/?id=3097650043) | 3097650043 |
 | [ZombieBuddy](https://steamcommunity.com/sharedfiles/filedetails/?id=3619862853) | 3619862853 |
 | [[B41,B42] Show VHS skills in tooltip](https://steamcommunity.com/sharedfiles/filedetails/?id=3716522633) | 3716522633 |
@@ -64,7 +63,6 @@ Collection: https://steamcommunity.com/sharedfiles/filedetails/?id=3827405167
 | [[B42.20] Detailed Descriptions for Occupations and Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=3387957272) | 3387957272 |
 | [[B42.20] True RVs Only](https://steamcommunity.com/sharedfiles/filedetails/?id=3664207077) | 3664207077 |
 | [[B42] Buildable Garage Doors](https://steamcommunity.com/sharedfiles/filedetails/?id=3727753275) | 3727753275 |
-| [[B42] Moodle Descriptions Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=3389003300) | 3389003300 |
 | [[B42] Vanilla Firearms Rework](https://steamcommunity.com/sharedfiles/filedetails/?id=3720484992) | 3720484992 |
 | [[B42]Project RV Interior](https://steamcommunity.com/sharedfiles/filedetails/?id=3543229299) | 3543229299 |
 
